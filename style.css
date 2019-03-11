@@ -1,0 +1,22 @@
+body{
+	background: white;
+	font-size: 1em;
+	font-family: Arial;
+	color: black;
+}
+header {
+	background-image: url('img/fondo.jpg');
+	background-repeat: no-repeat;
+	background-size: 1440px 888px;
+} 
+.e{
+	margin-left: 35%;
+}
+.log{
+	margin-left: 2em;
+	width: 300px;
+	display: block;
+}
+.logo{
+	margin-left: 15%;
+}
