@@ -1,0 +1,49 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins/_breakpoints";
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+@include media-breakpoint-between(sm, md) {
+
+}
+
+.bg-dark {
+  background-color: #d11122 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+carousel-caption{
+  top: 50%;
+}
+@include media-breakpoint-up(sm) {
+  .my-carousel{
+    margin-top: -190px;
+  }
+  .navbar {
+    background-color: transparent !important;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    padding-right: 200px;}
+
+}
+
+.my-nav{
+  z-index: 999;
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
