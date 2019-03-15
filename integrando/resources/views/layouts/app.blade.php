@@ -24,7 +24,7 @@
 
 <main role="main" class="container">
 @yield('content')
-    
+
 
 </main><!-- /.container -->
 @include('layouts.partials.footer')
