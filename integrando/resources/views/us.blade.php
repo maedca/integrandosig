@@ -138,7 +138,7 @@
 
                 </div>
             </div>
-            <img src="{{'images/nosotros/bombillo.svg'}}" alt="" style="width: 20%; transform: translateX(1100px) translateY(-330px)" class="d-none d-md-block">
+            <img src="{{'images/nosotros/bombillo.svg'}}" alt="" style="width: 20%; transform: translateX(1090px) translateY(-330px)" class="d-none d-md-block">
         </div>
 
     </div>

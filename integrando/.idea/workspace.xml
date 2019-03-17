@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7f1a216-42bf-4982-8655-e084039dfce9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/img_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/partials/slide_us.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/us.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/us.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/us.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="140" column="134" selection-start-line="140" selection-start-column="134" selection-end-line="140" selection-end-column="134" />
+            <state relative-caret-position="345">
+              <caret line="140" column="110" selection-start-line="140" selection-start-column="110" selection-end-line="140" selection-end-column="110" />
               <folding>
                 <element signature="e#131#160#0#HTML" expanded="true" />
                 <element signature="e#2051#2069#0#HTML" expanded="true" />
@@ -71,7 +63,6 @@
                 <element signature="e#3155#3188#0#HTML" expanded="true" />
                 <element signature="e#3221#3241#0#HTML" expanded="true" />
                 <element signature="e#5601#5649#0#HTML" expanded="true" />
-                <element signature="e#7727#7795#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -385,12 +376,12 @@
       <updated>1552616447141</updated>
       <workItem from="1552616448387" duration="3020000" />
       <workItem from="1552619642909" duration="6065000" />
-      <workItem from="1552670302747" duration="9146000" />
+      <workItem from="1552670302747" duration="9389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18231000" />
+    <option name="totallyTimeSpent" value="18474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/us.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="140" column="134" selection-start-line="140" selection-start-column="134" selection-end-line="140" selection-end-column="134" />
+        <state relative-caret-position="345">
+          <caret line="140" column="110" selection-start-line="140" selection-start-column="110" selection-end-line="140" selection-end-column="110" />
           <folding>
             <element signature="e#131#160#0#HTML" expanded="true" />
             <element signature="e#2051#2069#0#HTML" expanded="true" />
@@ -555,7 +546,6 @@
             <element signature="e#3155#3188#0#HTML" expanded="true" />
             <element signature="e#3221#3241#0#HTML" expanded="true" />
             <element signature="e#5601#5649#0#HTML" expanded="true" />
-            <element signature="e#7727#7795#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
