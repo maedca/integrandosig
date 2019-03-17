@@ -19,7 +19,7 @@
                 <a href="#" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-link">Nosotros</a>
+                <a href="/us" class="nav-link">Nosotros</a>
             </li>
             <li class="nav-item">
                 <a href="#" class="nav-link">Potafolio</a>
