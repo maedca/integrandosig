@@ -10714,3 +10714,17 @@ carousel-caption {
   background-size: cover;
 }
 
+.dropdown-menu {
+  background-color: transparent;
+  border: none;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: transparent;
+  color: white;
+}
+

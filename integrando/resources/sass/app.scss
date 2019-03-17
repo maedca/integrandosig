@@ -65,3 +65,15 @@ carousel-caption{
   background-repeat: no-repeat;
   background-size: cover;
 }
+.dropdown-menu{
+  background-color: transparent;
+
+  border: none;
+}
+.dropdown-item{
+  color:white;
+  &:hover{
+    background-color: transparent;
+    color:white;
+  }
+}

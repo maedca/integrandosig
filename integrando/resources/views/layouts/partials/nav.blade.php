@@ -16,13 +16,21 @@
     <div class="collapse navbar-collapse flex-grow-1 text-center" id="myNavbar7">
         <ul class="navbar-nav ml-auto flex-nowrap">
             <li class="nav-item">
-                <a href="#" class="nav-link">Home</a>
+                <a href="/" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
                 <a href="/us" class="nav-link">Nosotros</a>
             </li>
-            <li class="nav-item">
-                <a href="#" class="nav-link">Potafolio</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   Portafolio
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Línea Estratégica de Sistemas de Gestión el Trabajo</a>
+                    <a class="dropdown-item" href="#">Línea Estratégica de Apoyo a la Educación</a>
+                    <a class="dropdown-item" href="#">Línea Estratégica de Eventos</a>
+
+                </div>
             </li>
             <li class="nav-item">
                 <a href="#" class="nav-link">Blog</a>
