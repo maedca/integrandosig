@@ -26,7 +26,7 @@
                    Portafolio
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Línea Estratégica de Sistemas de Gestión el Trabajo</a>
+                    <a class="dropdown-item" href="/line_1">Línea Estratégica de Sistemas de Gestión el Trabajo</a>
                     <a class="dropdown-item" href="#">Línea Estratégica de Apoyo a la Educación</a>
                     <a class="dropdown-item" href="#">Línea Estratégica de Eventos</a>
 

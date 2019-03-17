@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/us', function () {
     return view('us');
 });
+Route::get('/line_1', function () {
+    return view('line_1');
+});
