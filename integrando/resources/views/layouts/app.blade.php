@@ -20,9 +20,10 @@
 <body>
 
 @include('layouts.partials.nav')
-@include('layouts.partials.slide_home')
+@yield('header')
 
-<main role="main" class="container">
+
+
 @yield('content')
 
 

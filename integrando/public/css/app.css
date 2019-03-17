@@ -10702,3 +10702,15 @@ carousel-caption {
   color: #7c7c7c;
 }
 
+.parallax {
+  /* The image used */
+  background-image: url(/images/parallax_1.jpg?31ed3710482e34e0b676b07b6a9d311e);
+  /* Set a specific height */
+  height: 500px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
