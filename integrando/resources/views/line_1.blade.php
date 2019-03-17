@@ -83,6 +83,7 @@
                 <p>1. Diseño e implementación del SGC <br><br>Servicio que establece la metodología para planear y ejecutar el sistema de gestión de calidad, conforme a la norma ISO 9001:2015, a las necesidades de los clientes y las características de la organización.</p>
                 <p>2. Administración del SGC <br><br>Servicio con el cual se desarrolla el SGC bajo el ciclo PHVA con el fin de coordinar las actividades del sistema, a través de la metodología outsourcing.</p>
                 <p>3. Auditorías al SGC <br><br>Servicio documentado, sistemático e independiente para verificar la conformidad del sistema de gestión de calidad.</p>
+
             </div>
         </div>
     </div>
@@ -132,7 +133,7 @@
                     a las necesidades de los clientes y las características de la organización.</p>
                 <p>2. Administración del SGA <br><br>Servicio con el cual se desarrolla el SGC bajo el ciclo PHVA con el fin de coordinar las actividades del sistema, a través de la metodología
                     outsourcing.</p>
-                <p>3. Auditorías al SGA <br><br>Servicio documentado, sistemático e independiente para verificar la conformidad del sistema de gestión ambiental.</p>
+                <p>3. Auditorías al SGA <br><br>Servicio documentado, sistemático e independiente para verificar la conformidad del sistema de gestión ambiental.</p><br><br><br>
             </div>
         </div>
     </div>
