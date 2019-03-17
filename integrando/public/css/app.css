@@ -10728,3 +10728,7 @@ carousel-caption {
   color: white;
 }
 
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
