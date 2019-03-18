@@ -10756,9 +10756,49 @@ carousel-caption {
   display: block;
 }
 
+.activo_home {
+  color: #d11122;
+  border-bottom: 2px #d11122 solid;
+}
+
+.activo_us {
+  color: #0bb7d5;
+  border-bottom: 2px #0bb7d5 solid;
+}
+
+.activo_us {
+  color: #0bb7d5;
+  border-bottom: 2px #0bb7d5 solid;
+}
+
 .activo {
+  color: #dfdfdf;
+  border-bottom: 2px #dfdfdf solid;
+}
+
+.activo_line_1 {
+  color: #ffcf00;
+  border-bottom: 2px #ffcf00 solid;
+}
+
+.activo_line_2 {
   color: #77d20b;
   border-bottom: 2px #77d20b solid;
+}
+
+.activo_line_3 {
+  color: #d21466;
+  border-bottom: 2px #d21466 solid;
+}
+
+.activo_work {
+  color: #ffcf00;
+  border-bottom: 2px #ffcf00 solid;
+}
+
+.activo_contact {
+  color: #cc0ed7;
+  border-bottom: 2px #cc0ed7 solid;
 }
 
 .form-control {
@@ -10773,5 +10813,17 @@ carousel-caption {
   color: #fff;
   background-color: #77d20b;
   border-color: #77d20b;
+}
+
+@font-face {
+  font-family: "Myrad";
+  /* Antes de descargar el archivo, le decimos al buscador
+  que intente buscar en local la fuente con nombre
+  Cabin, Cabin Regular o Cabin-Regular */
+  src: url(/fonts/MyriadPro-Regular.ttf?cd7e3c74885ea1c118c0344d532f7042) format("truetype");
+}
+
+* {
+  font-family: "Myrad" !important;
 }
 

@@ -17,7 +17,10 @@
         <p> <img src="{{asset('images/whatsapp_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/face_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
     </div>
     <div class="col-md-4">
-        
+    <h6 style="color: white">Desarrolador por:</h6>
+        <img src="{{'images/logo.png'}}" alt="" style="width: 40%">
+        <br><br>
+        <p> <img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/cel_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
     </div>
 
 </div>

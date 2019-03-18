@@ -15,10 +15,10 @@
     </div>
     <div class="collapse navbar-collapse flex-grow-1 text-center" id="myNavbar7">
         <ul class="navbar-nav ml-auto flex-nowrap">
-            <li class="nav-item {{ (request()->is('/')) ? 'activo' : '' }}">
+            <li class="nav-item {{ (request()->is('/')) ? 'activo_home' : '' }}">
                 <a href="/" class="nav-link">Home</a>
             </li>
-            <li class="nav-item {{ (request()->is('us')) ? 'activo' : '' }}">
+            <li class="nav-item {{ (request()->is('us')) ? 'activo_us' : '' }}">
                 <a href="/us" class="nav-link">Nosotros</a>
             </li>
             <li class="nav-item dropdown {{ (request()->is('line_1')) ? 'activo' : '' }} {{ (request()->is('line_2')) ? 'activo' : '' }} {{ (request()->is('line_3')) ? 'activo' : '' }}">
@@ -26,19 +26,19 @@
                    Portafolio
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item {{ (request()->is('line_1')) ? 'activo' : '' }}" href="/line_1">Línea Estratégica de Sistemas de Gestión el Trabajo</a>
-                    <a class="dropdown-item  {{ (request()->is('line_2')) ? 'activo' : '' }}" href="/line_2">Línea Estratégica de Apoyo a la Educación</a>
-                    <a class="dropdown-item  {{ (request()->is('line_3')) ? 'activo' : '' }}" href="/line_3">Línea Estratégica de Eventos</a>
+                    <a class="dropdown-item {{ (request()->is('line_1')) ? 'activo_line_1' : '' }}" href="/line_1">Línea Estratégica de Sistemas de Gestión el Trabajo</a>
+                    <a class="dropdown-item  {{ (request()->is('line_2')) ? 'activo_line_2' : '' }}" href="/line_2">Línea Estratégica de Apoyo a la Educación</a>
+                    <a class="dropdown-item  {{ (request()->is('line_3')) ? 'activo_line_3' : '' }}" href="/line_3">Línea Estratégica de Eventos</a>
 
                 </div>
             </li>
-            <li class="nav-item {{ (request()->is('blog')) ? 'activo' : '' }}">
+            <li class="nav-item {{ (request()->is('blog')) ? 'activo_us' : '' }}">
                 <a href="/blog" class="nav-link">Blog</a>
             </li>
-            <li class="nav-item {{ (request()->is('work')) ? 'activo' : '' }}">
+            <li class="nav-item {{ (request()->is('work')) ? 'activo_work' : '' }}">
                 <a href="/work" class="nav-link">Trabaja con nosotros</a>
             </li>
-            <li class="nav-item {{ (request()->is('contact')) ? 'activo' : '' }}">
+            <li class="nav-item {{ (request()->is('contact')) ? 'activo_contact' : '' }}">
                 <a href="/contact" class="nav-link">Contactanos</a>
             </li>
             <li class="nav-item">
