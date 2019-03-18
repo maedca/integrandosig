@@ -65,6 +65,32 @@ carousel-caption{
   background-repeat: no-repeat;
   background-size: cover;
 }
+.parallax-2 {
+   /* The image used */
+   background-image: url("../../public/images/portafolio/parallax_2.jpg");
+
+   /* Set a specific height */
+   height: 500px;
+
+   /* Create the parallax scrolling effect */
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+.parallax-3 {
+  /* The image used */
+  background-image: url("../../public/images/portafolio/parallax_3.jpg");
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .dropdown-menu{
   background-color: transparent;
 
@@ -79,4 +105,20 @@ carousel-caption{
 }
 .dropdown:hover>.dropdown-menu {
   display: block;
+}
+.activo{
+  color:#77d20b;
+  border-bottom: 2px #77d20b solid;
+}
+.form-control{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color:transparent;
+  border-radius:0;
+}
+.btn-primary {
+  color: #fff;
+  background-color:#77d20b;
+  border-color: #77d20b;
 }

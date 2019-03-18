@@ -1,0 +1,32 @@
+<div style="background-color: black; height: 500px;  margin-top: -190px;" class="d-none d-md-block">
+    <div class="container" style="z-index: 999">
+        <div class="row">
+            <div class="col-md-6">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <h1 style="color: white">Línea Estratégica de
+                    Apoyo a la Educación</h1>
+            </div>
+            <div class="col-md-6">
+                <br><br><br><br><br><br><br><br><br><br><br>
+                <img src="{{asset('images/portafolio/img_7.jpg')}}" alt="" class="d-none d-md-block">
+            </div>
+        </div>
+
+    </div>
+</div>
+<div style="background-color: black; height: 500px;  margin-top: -190px;" class="d-lg-none">
+    <div class="container" style="z-index: 999">
+        <div class="row">
+            <div class="col-md-6">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <h1 style="color: white">Línea Estratégica de
+                    Apoyo a la Educación</h1>
+            </div>
+            <div class="col-md-6">
+                <br><br><br><br><br><br><br><br><br>
+                <img src="{{asset('images/portafolio/img_7.jpg')}}" alt="" class="d-none d-md-block">
+            </div>
+        </div>
+
+    </div>
+</div>

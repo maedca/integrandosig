@@ -17,7 +17,7 @@
         <p> <img src="{{asset('images/whatsapp_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/face_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
     </div>
     <div class="col-md-4">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus deleniti dolores doloribus eveniet ex, laudantium quod recusandae reprehenderit unde veritatis? Distinctio eligendi eveniet fugit libero magni modi, nisi obcaecati vitae!</p>
+        
     </div>
 
 </div>

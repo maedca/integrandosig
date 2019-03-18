@@ -20,3 +20,22 @@ Route::get('/us', function () {
 Route::get('/line_1', function () {
     return view('line_1');
 });
+Route::get('/line_2', function () {
+    return view('line_2');
+});
+Route::get('/line_3', function () {
+    return view('line_3');
+});
+Route::get('/blog', function () {
+    return view('blog');
+});
+Route::get('/work', function () {
+    return view('work');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+
+
+
