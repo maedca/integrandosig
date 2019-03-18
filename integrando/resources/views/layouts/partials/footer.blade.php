@@ -21,6 +21,8 @@
         <img src="{{'images/logo.png'}}" alt="" style="width: 40%">
         <br><br>
         <p> <img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/cel_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
+        <p>© 2018 Integrando S.A.S. Todos los derechos reservados
+            Prohibida la copia, reproducción parcial o total de los contenidos</p>
     </div>
 
 </div>
