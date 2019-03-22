@@ -79,7 +79,7 @@
         </main>
     </div>
     <div style="background-color: #0bb7d5">
-        <div class="container" style="color: white">
+        <div class="container d-none d-md-block" style="color: white;height: 450px" >
             <div class="row">
                 <div class="col-sm-4">
                     <br><br><br><br>
@@ -107,11 +107,85 @@
                     <br><br><br>
                 </div>
             </div>
+            <div class="row">
+                <img src="{{asset('images/nosotros_blanco.svg')}}" alt="" style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)" class="d-none d-md-block">
+            </div>
+        </div>
+        <div class="container d-lg-none" style="color: white;" >
+            <div class="row">
+                <div class="col-sm-4">
+                    <br><br><br><br>
+                    <h3>Política Integrada de Gestión</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+
+                    <p class="text-justify">
+                        La alta dirección de Integrando – Soluciones Integradas de Gestión S.A.S. la cual tiene por objeto la consultoría organizacional especializada
+                        en el diseño, implementación y evaluación de sistemas de gestión, la administración outsourcing de los sistemas gestión, el apoyo al sector
+                        educativo y eventos a gran escala; se compromete a desarrollar su sistema integrado de gestión en procura de la satisfacción de las necesidades
+                        y expectativas de las partes interesadas, la seguridad y la salud en el trabajo de colaboradores y contratistas, la debida protección y tratamiento
+                        de la información y la ejecución de sus objetivos estratégicos; teniendo en cuenta su contexto organizacional. Así mismo, se compromete
+                        a identificar los peligros, evaluar y valorar los riesgos además de establecer los respectivos controles y proteger la seguridad y salud de
+                        los colaboradores y contratistas; todo lo anterior, a través del mejoramiento de la calidad en sus procesos y la asignación de los recursos necesarios
+                        para el cumplimiento de los requisitos legales, organizacionales y de norma.
+                    </p>
+                    <p class="text-justify">
+                        De igual manera, la alta dirección revisará sistemáticamente la política del sistema integrado de gestión para verificar su funcionamiento.
+                    </p>
+                    <p class="text-justify">La presente política es aprobada en Itagüí el día 22 de marzo de 2018</p>
+                    <p class="text-justify">Lisseth A. Sánchez Henao <br>Gerente</p>
+                    <br><br><br>
+                </div>
+            </div>
+            <div class="row">
+                <img src="{{asset('images/nosotros_blanco.svg')}}" alt="" style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)" class="d-none d-md-block">
+            </div>
+        </div>
+    </div>
+    <div class="parallax d-none d-md-block"></div>
+    <div style="background-color: #ebebeb; height: 518px " class="d-none d-md-block">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-4">
+                    <br><br><br>
+                    <h3>Objetivos del SIG</h3>
+                    <br><br>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-justify">Gerenciar la empresa mediante el fortalecimiento del sistema integrado de gestión, asegurando su sostenibilidad y la protección de
+                        sus colaboradores, para el mejoramiento continuo del servicio que presta y el cumplimiento de su política integrada a través de la identificación de peligros, evaluación y valoración de riesgos, el control de los mismos y el cumplimiento de la normatividad legal vigente.</p>
+                    <p class="text-justify">
+                        Asegurar el mejoramiento del Sistema Integrado de Gestión, promoviendo la eficacia en las acciones, para el fortalecimiento de la cultura
+                        de la calidad, la seguridad y salud en el trabajo y la protección y tratamiento de la información.
+                    </p>
+                    <p class="text-justify">Asistir a las organizaciones a través del desarrollo del portafolio de servicios, para el cumplimiento de la satisfacción de las necesidades
+                        y expectativas de los clientes.</p>
+                    <p class="text-justify">Gestionar la consecución de clientes potenciales y el sostenimiento de los actuales, a través del desarrollo de servicios de asistencia
+                        técnica en la gestión y la producción de eventos a gran escala para la transformación de procesos organizacionales.</p>
+                    <p class="text-justify">Gestionar los recursos de manera transparente, procurando el desarrollo operacional de los procesos, la rentabilidad y sostenibilidad
+                        de la empresa.</p>
+                    <br><br><br><br>
+
+                </div>
+
+            </div>
+
+
         </div>
 
     </div>
-    <div class="parallax d-none d-md-block"></div>
-    <div style="background-color: #ebebeb; height: 518px" >
+    <div style="height: 0">
+    <img src="{{'images/nosotros_azul.svg'}}" alt="" style="width: 30%; transform: translateX(0px) translateY(-370px)" class="d-none d-md-block">
+
+    <img src="{{'images/nosotros/bombillo.svg'}}" alt="" style="width: 15%; transform: translateX(1290px) translateY(-705px)" class="d-none d-md-block">
+    </div>
+    <div style="background-color: #ebebeb;" class="d-lg-none">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -142,5 +216,4 @@
         </div>
 
     </div>
-
     @endsection
