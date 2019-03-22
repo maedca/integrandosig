@@ -22,7 +22,7 @@
 
     <div style="background-color: #ffcf00">
         <br><br>
-        <div class="container">
+        <div class="container d-none d-md-block">
             <div class="row">
                 <div class="col-md-8">
 
@@ -37,8 +37,31 @@
                     <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de prevención de caídas de alturas</p>
                     <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de prevención de consumo de sustancias psicoactivas, alcoholismo y tabaquismo</p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4" style="height: 400px">
                     <img src="{{asset('images/portafolio/escudo_1.svg')}}" alt="" style="width: 100%">
+                    <img src="{{asset('images/portafolio_enamarillo.svg')}}" alt="" style="width: 100%; transform: translateY(-148px) translateX(-1000px)">
+                    <br><br>
+                </div>
+            </div>
+        </div>
+        <div class="container d-lg-none">
+            <div class="row">
+                <div class="col-md-8">
+
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de capacitación, promoción y prevención</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de condiciones de salud de los trabajadores</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de convivencia laboral</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de estilos de vida saludables</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de inspecciones de seguridad</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de medicina del trabajo</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de orden, aseo y limpieza</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de pausas activas</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de prevención de caídas de alturas</p>
+                    <p class="font-weight-bold"><span><img src="{{asset('images/portafolio/escudo_2.svg')}}" alt="" style="width: 2%"></span> Programa de prevención de consumo de sustancias psicoactivas, alcoholismo y tabaquismo</p>
+                </div>
+                <div class="col-md-4" style="height:auto">
+                    <img src="{{asset('images/portafolio/escudo_1.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
+                    <img src="{{asset('images/portafolio_enamarillo.svg')}}" alt="" style="width: 100%; transform: translateY(-148px) translateX(-1000px)" class="d-none d-md-block">
                     <br><br>
                 </div>
             </div>
@@ -58,7 +81,7 @@
             </div>
         </div>
     </div>
-    <div style="background-color: black; height: 300px">
+    <div style="background-color:#262f64; height: 300px">
         <div class="row">
             <div class="col-md-6 offset-6  d-none d-md-block">
                 <br><br><br><br><br>
@@ -102,22 +125,22 @@
         </div>
     </div>
 
+    <br><br>
+    <div class="parallax-4 d-none d-md-block"></div>
 
 
 
-
-
-    <div style="background-color: black; height: 300px">
+    <div style="background-color: #262f64; height: 300px">
         <div class="row">
             <div class="col-md-6 offset-1 d-none d-md-block">
                 <br><br><br><br><br>
                 <h1 style="color: white">Sistemas de Gestión
-                    de Calidad</h1>
+                    Ambiental</h1>
             </div>
             <div class="col-sm-12 d-lg-none">
                 <br><br><br><br><br>
                 <h1 style="color: white" class="text-center">Sistemas de Gestión
-                    de Calidad</h1>
+                    Ambiental</h1>
             </div>
         </div>
     </div>
@@ -157,7 +180,7 @@
 
 
 
-    <div style="background-color: black; height: 300px">
+    <div style="background-color: #262f64; height: 300px">
         <div class="row">
             <div class="col-md-6 offset-6  d-none d-md-block">
                 <br><br><br><br><br>
@@ -204,7 +227,7 @@
     </div>
 
 
-    <div style="background-color: black; height: 300px">
+    <div style="background-color: #262f64; height: 300px">
         <div class="row">
             <div class="col-md-6 offset-1 d-none d-md-block">
                 <br><br><br><br><br>

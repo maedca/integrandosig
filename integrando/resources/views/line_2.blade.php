@@ -22,8 +22,8 @@
         </main>
     </div>
 
-    <div style="background-color: #77d20b">
-        <br><br>
+    <div class="d-none d-md-block" style="background-color: #77d20b; height: 350px">
+        <br>
         <div class="container">
             <div class="row">
                 <div class="col-md-8" style="color: white">
@@ -39,8 +39,33 @@
 
                 </div>
                 <div class="col-md-4">
-                    <img src="{{asset('images/portafolio/libro_2.svg')}}" alt="" style="width: 100%">
-                    <br><br>
+                    <img src="{{asset('images/portafolio/libro_2.svg')}}" alt="" style="width: 100%" class="">
+                    <img src="{{asset('images/portafolio_enverde.svg')}}" alt="" style="width: 100%; transform: translateY(-372px) translateX(-850px)" class="">
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #77d20b; height: 350px" class="d-lg-none">
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8" style="color: white">
+
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+
+                </div>
+                <div class="col-md-4">
+                    <img src="{{asset('images/portafolio/libro_2.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
+                    <img src="{{asset('images/portafolio_enverde.svg')}}" alt="" style="width: 100%; transform: translateY(-372px) translateX(-850px)" class="d-none d-md-block">
+                    <br>
                 </div>
             </div>
         </div>

@@ -18,11 +18,11 @@
         </main>
     </div>
 
-    <div style="background-color: #d21466">
+    <div style="background-color: #d21466; height: 400px" class="d-none d-md-block">
         <br><br>
         <div class="container">
             <div class="row">
-                <div class="col-md-8" style="color: white">
+                <div class="col-md-8" style="color: white; " >
 
                     <p class="font-weight-bold">It is a long established fact that a reader will be</p>
                     <p class="font-weight-bold">It is a long established fact that a reader will be</p>
@@ -35,7 +35,32 @@
 
                 </div>
                 <div class="col-md-4">
-                    <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%">
+                    <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
+                    <img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)" class="d-none d-md-block">
+                    <br><br>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #d21466; height: 400px" class="d-lg-none">
+        <br><br>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8" style="color: white; " >
+
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+
+                </div>
+                <div class="col-md-4">
+                    {{--<img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%" class="d-none">--}}
+                    {{--<img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)">--}}
                     <br><br>
                 </div>
             </div>
