@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7f1a216-42bf-4982-8655-e084039dfce9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/parallax_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portafolio_enamarillo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portafolio_enfuccia.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portafolio_enverde.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/rompe_c.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/partials/line_1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/partials/line_1.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/partials/line_2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/partials/line_2.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/partials/line_3.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/partials/line_3.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/line_1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/line_1.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/line_2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/line_2.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/line_3.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/line_3.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portafolio/parallax_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portafolio/parallax_3.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +29,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
+            <state relative-caret-position="92">
+              <caret line="80" column="12" lean-forward="true" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="58" column="100" selection-start-line="58" selection-start-column="100" selection-end-line="58" selection-end-column="100" />
               <folding>
-                <element signature="e#1593#1908#0" />
+                <element signature="e#2654#2704#0#HTML" expanded="true" />
+                <element signature="e#2917#2977#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/line_3.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="58" column="126" selection-start-line="58" selection-start-column="126" selection-end-line="58" selection-end-column="126" />
-              <folding>
-                <element signature="e#1563#2716#0#HTML" />
-              </folding>
+            <state relative-caret-position="-217">
+              <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -229,6 +222,13 @@
             <path>
               <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
               <item name="integrando" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portafolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
+              <item name="integrando" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,6 +279,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\images\portafolio" />
       <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\images" />
       <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\fonts" />
       <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\resources\views\layouts\partials" />
@@ -318,12 +319,12 @@
       <workItem from="1552616448387" duration="3020000" />
       <workItem from="1552619642909" duration="6065000" />
       <workItem from="1552670302747" duration="29694000" />
-      <workItem from="1553284121984" duration="5065000" />
+      <workItem from="1553284121984" duration="5344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43844000" />
+    <option name="totallyTimeSpent" value="44123000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,8 +336,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -579,23 +579,6 @@
     <entry file="file://$PROJECT_DIR$/public/images/portafolio_enfuccia.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/line_3.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="62" column="156" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="62" selection-end-column="156" />
-          <folding>
-            <element signature="e#125#155#0#HTML" expanded="true" />
-            <element signature="e#120#732#0#HTML" />
-            <element signature="e#743#791#0#HTML" expanded="true" />
-            <element signature="e#936#958#0#HTML" expanded="true" />
-            <element signature="e#1937#1956#0#HTML" expanded="true" />
-            <element signature="e#2066#2135#0#HTML" expanded="true" />
-            <element signature="e#2196#2248#0#HTML" expanded="true" />
-            <element signature="e#2367#2389#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/line_3.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -606,23 +589,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
+    <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
+        <state relative-caret-position="266">
+          <caret line="58" column="100" selection-start-line="58" selection-start-column="100" selection-end-line="58" selection-end-column="100" />
           <folding>
-            <element signature="e#1593#1908#0" />
+            <element signature="e#2654#2704#0#HTML" expanded="true" />
+            <element signature="e#2917#2977#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/line_3.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="58" column="126" selection-start-line="58" selection-start-column="126" selection-end-line="58" selection-end-column="126" />
-          <folding>
-            <element signature="e#1563#2716#0#HTML" />
-          </folding>
+        <state relative-caret-position="-217">
+          <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="80" column="12" lean-forward="true" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
         </state>
       </provider>
     </entry>
