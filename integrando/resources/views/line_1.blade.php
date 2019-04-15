@@ -95,6 +95,7 @@
             </div>
         </div>
     </div>
+
     <div class="container d-none d-md-block" style="margin-top: -230px">
         <div class="row">
             <div class="col-md-6">
@@ -110,6 +111,7 @@
             </div>
         </div>
     </div>
+
     <div class="container d-lg-none">
         <div class="row">
             <div class="col-md-6">
@@ -124,9 +126,18 @@
             </div>
         </div>
     </div>
+    <div class="responsive d-none d-md-block" style="height: 300px; width: 100%">
+        <div><img src="{{asset('images/portafolio/anima_7.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/portafolio/anima_8.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/portafolio/anima_9.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/portafolio/anima_10.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/portafolio/anima_11.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/portafolio/anima_12.jpg')}}" alt=""></div>
 
-    <br><br>
-    <div class="parallax-4 d-none d-md-block"></div>
+    </div>
+    <br><br><br><br>
+    {{--<br><br>--}}
+    {{----}}
 
 
 
@@ -270,7 +281,7 @@
             </div>
         </div>
     </div>
-
+    <div class="parallax-4 d-none d-md-block"></div>
 
 
 

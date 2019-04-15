@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-md-6">
             <br><br><br><br><br><br><br><br>
-            <h1 style="color: white">Seguridad en
+            <h1 style="color: white">Seguridad y Salud en
                 el Trabajo</h1>
         </div>
         <div class="col-md-6">
