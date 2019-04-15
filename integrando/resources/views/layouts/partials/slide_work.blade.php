@@ -7,20 +7,20 @@
         {{--</ol>--}}
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{asset('images/trabaja/slide-1.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/trabaja/slider_int_10.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
 
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{asset('images/trabaja/slide-2.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/trabaja/slider_int_11.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
                     {{--<h5>Second slide label</h5>--}}
                     {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>--}}
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{asset('images/trabaja/slide-3.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/trabaja/slider_int_12.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
                     {{--<h5>Third slide label</h5>--}}
                     {{--<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>--}}

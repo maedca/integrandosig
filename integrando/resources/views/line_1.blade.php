@@ -133,14 +133,8 @@
         <div><img src="{{asset('images/portafolio/anima_10.jpg')}}" alt=""></div>
         <div><img src="{{asset('images/portafolio/anima_11.jpg')}}" alt=""></div>
         <div><img src="{{asset('images/portafolio/anima_12.jpg')}}" alt=""></div>
-
     </div>
     <br><br><br><br>
-    {{--<br><br>--}}
-    {{----}}
-
-
-
     <div style="background-color: #262f64; height: 300px">
         <div class="row">
             <div class="col-md-6 offset-1 d-none d-md-block">

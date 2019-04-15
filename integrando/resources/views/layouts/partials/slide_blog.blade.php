@@ -7,35 +7,27 @@
         {{--</ol>--}}
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{asset('images/contactenos/slider_int_13.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/slide_blog/slider_int_7.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
+                    {{--<h5>First slide label</h5>--}}
+                    {{--<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>--}}
                 </div>
             </div>
-            <div class="carousel-item active">
-                <img src="{{asset('images/contactenos/slider_int_14.jpg')}}" class="d-block w-100" alt="...">
+            <div class="carousel-item">
+                <img src="{{asset('images/slide_blog/slider_int_8.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                </div>
-            </div>
-            <div class="carousel-item active">
-                <img src="{{asset('images/contactenos/slider_int_15.jpg')}}" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block" style="top:50%">
-                </div>
-            </div>
-            {{--<div class="carousel-item">--}}
-                {{--<img src="{{asset('images/trabaja/slide-2.jpg')}}" class="d-block w-100" alt="...">--}}
-                {{--<div class="carousel-caption d-none d-md-block" style="top:50%">--}}
                     {{--<h5>Second slide label</h5>--}}
                     {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-            {{--<div class="carousel-item">--}}
-                {{--<img src="{{asset('images/trabaja/slide-3.jpg')}}" class="d-block w-100" alt="...">--}}
-                {{--<div class="carousel-caption d-none d-md-block" style="top:50%">--}}
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="{{asset('images/slide_blog/slider_int_9.jpg')}}" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block" style="top:50%">
                     {{--<h5>Third slide label</h5>--}}
                     {{--<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-        </div>
+                </div>
+            </div>
+        {{--</div>--}}
         {{--<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">--}}
         {{--<span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
         {{--<span class="sr-only">Previous</span>--}}
@@ -45,4 +37,10 @@
         {{--<span class="sr-only">Next</span>--}}
         {{--</a>--}}
     </div>
-</div>
+</div><?php
+/**
+ * Created by PhpStorm.
+ * User: USER
+ * Date: 15/4/2019
+ * Time: 5:14 PM
+ */

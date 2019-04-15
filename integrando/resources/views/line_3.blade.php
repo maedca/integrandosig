@@ -24,19 +24,11 @@
             <div class="row">
                 <div class="col-md-8" style="color: white; " >
 
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
 
                 </div>
                 <div class="col-md-4">
                     <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
-                    <img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)" class="d-none d-md-block">
+                    {{--<img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)" class="d-none d-md-block">--}}
                     <br><br>
                 </div>
             </div>
@@ -48,14 +40,6 @@
             <div class="row">
                 <div class="col-md-8" style="color: white; " >
 
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
 
                 </div>
                 <div class="col-md-4">

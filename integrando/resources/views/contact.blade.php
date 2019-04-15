@@ -56,8 +56,8 @@
             </div>
             <div class="col-sm-6">
 
-                <img src="{{asset('images/rompe_c.png')}}" alt="" class="img-fluid d-none d-md-block" style="width:70%; transform: translateY(200px) translateX(365px)"  >
-                <br><br><br><br><br> <br><br><br><br> <br>
+                <img src="{{asset('images/contactenos/contacto_2.jpg')}}" alt="" class="img-fluid d-none d-md-block" style="width:100%; transform: translateX(200px) "  >
+
             </div>
 
         </div>

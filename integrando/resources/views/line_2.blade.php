@@ -28,19 +28,12 @@
             <div class="row">
                 <div class="col-md-8" style="color: white">
 
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <img src="{{asset('images/portafolio/educacion_verde.png')}}" alt="" style="width: 50%">
 
                 </div>
                 <div class="col-md-4">
                     <img src="{{asset('images/portafolio/libro_2.svg')}}" alt="" style="width: 100%" class="">
-                    <img src="{{asset('images/portafolio_enverde.svg')}}" alt="" style="width: 100%; transform: translateY(-372px) translateX(-850px)" class="">
+                    {{--<img src="{{asset('images/portafolio_enverde.svg')}}" alt="" style="width: 100%; transform: translateY(-372px) translateX(-850px)" class="">--}}
                     <br>
                 </div>
             </div>
@@ -50,21 +43,14 @@
         <br>
         <div class="container">
             <div class="row">
-                <div class="col-md-8" style="color: white">
+                <div class="col-md-8">
 
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
-                    <p class="font-weight-bold">It is a long established fact that a reader will be</p>
+                    <img src="{{asset('images/portafolio/educacion_verde.png')}}" alt="">
 
                 </div>
                 <div class="col-md-4">
                     <img src="{{asset('images/portafolio/libro_2.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
-                    <img src="{{asset('images/portafolio_enverde.svg')}}" alt="" style="width: 100%; transform: translateY(-372px) translateX(-850px)" class="d-none d-md-block">
+                    {{--<img src="{{asset('images/portafolio_enverde.svg')}}" alt="" style="width: 100%; transform: translateY(-372px) translateX(-850px)" class="d-none d-md-block">--}}
                     <br>
                 </div>
             </div>

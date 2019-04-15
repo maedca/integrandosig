@@ -3,10 +3,10 @@
     @include('layouts.partials.slide_work')
 @endsection
 @section('content')
-    <main role="main" class="container">
+    <main role="main" class="container" style="background-color: white">
         <div class="row">
 
-            <div class="col-sm-6 offset-1">
+            <div class="col-sm-6">
                 <form>
                     <br><br><br>
                     <div class="form-group">
@@ -38,6 +38,9 @@
                     <button type="submit" class="btn btn-primary">Submit</button>
                     <br><br><br>
                 </form>
+            </div>
+            <div class="col-sm-6">
+                <img src="{{asset('images/contactenos/nosotros_1.jpg')}}" alt="" style="width: 100%; transform: translateX(200px)">
             </div>
 
         </div>

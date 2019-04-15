@@ -1,5 +1,5 @@
-<div style="background-color: #262f64; height: 350px;  margin-top: ;" class="d-none d-md-block">
-<div class="container-fluid" style="z-index: 999; margin-top: px">
+<div style="background-color: #262f64; height: 350px;" class="d-none d-md-block">
+<div class="container" style="z-index: 999; ">
     <div class="row">
         <div class="col-md-6">
             <br><br><br><br><br><br><br><br>
