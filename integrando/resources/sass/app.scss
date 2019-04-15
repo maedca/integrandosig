@@ -18,7 +18,7 @@
 }
 
 .bg-dark {
-  background-color: #d11122 !important;
+  background-color: #262f64 !important;
 }
 .navbar-dark .navbar-nav .nav-link {
   color: white;
@@ -28,20 +28,20 @@ carousel-caption{
   top: 50%;
 }
 @include media-breakpoint-up(sm) {
-  .my-carousel{
-    margin-top: -190px;
-  }
-  .navbar {
-    background-color: transparent !important;
-  }
+  //.my-carousel{
+  //  margin-top: -190px;
+  //}
+  //.navbar {
+  //  background-color: transparent !important;
+  //}
   .navbar-expand-lg .navbar-collapse {
     padding-right: 200px;}
 
 }
 
-.my-nav{
-  z-index: 999;
-}
+//.my-nav{
+//  z-index: 999;
+//}
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -105,14 +105,18 @@ carousel-caption{
   background-size: cover;
 }
 .dropdown-menu{
-  background-color: transparent;
+  background-color: #262f64;
 
   border: none;
+}
+html {
+  position: relative;
+  max-height: 100%;
 }
 .dropdown-item{
   color:white;
   &:hover{
-    background-color: transparent;
+    background-color: #262f64;
     color:white;
   }
 }

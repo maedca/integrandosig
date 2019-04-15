@@ -19,9 +19,12 @@
   margin-right: auto;" class="img-fluid"></span>
             <h3 class="text-center">Sistemas de Gestión</h3>
             <p class="text-center">
-                Nuestro servicio se enfoca en la
-                coordinación de sistemas de gestión
-                bajo la práctica de outsourc...
+                Diseñamos, implementamos y evaluamos
+                procesos organizacionales para el
+                cumplimiento de los requisitos legales,
+                institucionales y de norma, a través de la
+                implementación de normas técnicas y legales
+                de orden internacional y nacional.
             </p>
         </div>
         <div class="col-sm-4">
@@ -30,8 +33,10 @@
   margin-right: auto;" class="img-fluid"></span>
             <h3 class="text-center">Apoyo a la Educación</h3>
             <p class="text-center">
-                Contamos con experiencia en el sector
-                educativo, asesorando en temas específicos de los ambientes e...
+                Contribuimos al mejoramiento de la calidad
+                educativa por medio de servicios ajustados a
+                las necesidades institucionales en los
+                diferentes niveles de los sistemas educativos
             </p>
         </div>
         <div class="col-sm-4">
@@ -40,8 +45,8 @@
   margin-right: auto;" class="img-fluid"></span>
             <h3 class="text-center">Eventos</h3>
             <p class="text-center">
-                Contamos con experiencia en el sector
-                educativo, asesorando en temas específicos de los ambientes e...
+                Producimos eventos a gran escala para la
+                diversión de todo tipo de público
             </p>
         </div>
     </div>

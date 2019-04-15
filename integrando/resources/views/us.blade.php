@@ -4,7 +4,7 @@
     @endsection
 
 @section('content')
-    <div style="background-color:#ebebeb">
+    <div style="background-color:white">
         <main role="main" class="container">
 
     <div class="row">
@@ -78,8 +78,11 @@
             <div></div>
         </main>
     </div>
-    <div style="background-color: #0bb7d5">
-        <div class="container d-none d-md-block" style="color: white;height: 450px" >
+    <div>
+        <img src="{{asset('images/nosotros/nosotros_rompe.jpg')}}" alt="" class="d-none d-md-block img-fluid" style="width: 100%">
+    </div>
+    <div style="background-color: white">
+        <div class="container d-none d-md-block" style="color: black;height: 450px" >
             <div class="row">
                 <div class="col-sm-4">
                     <br><br><br><br>
@@ -107,11 +110,12 @@
                     <br><br><br>
                 </div>
             </div>
-            <div class="row">
-                <img src="{{asset('images/nosotros_blanco.svg')}}" alt="" style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)" class="d-none d-md-block">
-            </div>
+            {{--<div class="row">--}}
+                {{--<img src="{{asset('images/nosotros_blanco.svg')}}" alt="" style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)" class="d-none d-md-block">--}}
+            {{--</div>--}}
         </div>
-        <div class="container d-lg-none" style="color: white;" >
+
+        <div class="container d-lg-none" style="color: black; background-color: white" >
             <div class="row">
                 <div class="col-sm-4">
                     <br><br><br><br>
@@ -144,8 +148,19 @@
             </div>
         </div>
     </div>
-    <div class="parallax d-none d-md-block"></div>
-    <div style="background-color: #ebebeb; height: 518px " class="d-none d-md-block">
+    {{--<div class="parallax d-none d-md-block"></div>--}}
+
+    <div class="responsive d-none d-md-block" style="height: 300px; width: 100%">
+        <div><img src="{{asset('images/nosotros/anima_1.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/nosotros/anima_2.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/nosotros/anima_3.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/nosotros/anima_4.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/nosotros/anima_5.jpg')}}" alt=""></div>
+        <div><img src="{{asset('images/nosotros/anima_6.jpg')}}" alt=""></div>
+
+    </div>
+
+    <div style="background-color: white; height: 518px " class="d-none d-md-block">
         <div class="container">
             <div class="row">
 
@@ -180,11 +195,11 @@
         </div>
 
     </div>
-    <div style="height: 0">
-    <img src="{{'images/nosotros_azul.svg'}}" alt="" style="width: 30%; transform: translateX(0px) translateY(-370px)" class="d-none d-md-block">
+    {{--<div style="height: 0">--}}
+    {{--<img src="{{'images/nosotros_azul.svg'}}" alt="" style="width: 30%; transform: translateX(0px) translateY(-370px)" class="d-none d-md-block">--}}
 
-    <img src="{{'images/nosotros/bombillo.svg'}}" alt="" style="width: 15%; transform: translateX(1290px) translateY(-705px)" class="d-none d-md-block">
-    </div>
+    {{--<img src="{{'images/nosotros/bombillo.svg'}}" alt="" style="width: 15%; transform: translateX(1290px) translateY(-705px)" class="d-none d-md-block">--}}
+    {{--</div>--}}
     <div style="background-color: #ebebeb;" class="d-lg-none">
         <div class="container">
             <div class="row">
@@ -216,4 +231,5 @@
         </div>
 
     </div>
+
     @endsection
