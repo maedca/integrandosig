@@ -3,7 +3,8 @@
     @include('layouts.partials.slide_contact')
 @endsection
 @section('content')
-    <main role="main" class="container">
+    <div style="background-color: white">
+    <main role="main" class="container" style="background-color: white">
         <div class="row">
             {{--<div class="col-sm-6">--}}
                 {{--<br><br><br>--}}
@@ -66,4 +67,5 @@
         </div>
 
     </main>
+    </div>
 @endsection

@@ -2,12 +2,12 @@
     <div class="container" style="z-index: 999">
         <div class="row">
             <div class="col-md-6">
-                <br><br><br><br><br><br><br><br>
-                <h1 style="color: white">Línea Estratégica
+                <br><br><br><br><br><br>
+                <h1 style="color: white;font-size: 3rem">Línea Estratégica
                     de Eventos</h1>
             </div>
             <div class="col-md-6">
-                <br><br><br><br>
+                <br>
                 <img src="{{asset('images/portafolio/img_8.jpg')}}" alt="" class="d-none d-md-block">
             </div>
         </div>

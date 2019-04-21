@@ -10660,6 +10660,13 @@ a.text-dark:focus {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+.navbar {
+  padding-top: 0rem;
+  padding-right: 1rem;
+  padding-bottom: 0rem;
+  padding-left: 1rem;
+}
+
 .bg-dark {
   background-color: #262f64 !important;
 }

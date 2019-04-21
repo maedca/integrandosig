@@ -9,12 +9,13 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet error, nemo possimus quia quo repudiandae voluptatem! Aliquam aspernatur consectetur labore laborum perspiciatis quaerat, vitae. Cum enim et quisquam recusandae repudiandae.</p>
     </div>
     <div class="col-md-4">
-       <p> <img src="{{asset('images/marcador.svg')}}" alt="" class="img-fluid" style="width: 20px"> Calle 49 Sur # 45 A 300
-           <br> &nbsp; &nbsp;&nbsp;&nbsp; Ed S48 Tower Oficina 2213 <br>    &nbsp; &nbsp;&nbsp;&nbsp; Ed S48 Tower Oficina 2213</p>
-        <p> <img src="{{asset('images/cel_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> + 57 318 548 59 11
-            <br> &nbsp; &nbsp;&nbsp;&nbsp; + 57 312 7585525</p>
-        <p> <img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
-        <p> <img src="{{asset('images/whatsapp_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/face_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
+       <p> <img src="{{asset('images/marcador.svg')}}" alt="" class="img-fluid" style="width: 20px"> Calle 49 Sur 45 A 300
+           <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ed S48 Tower Oficina 2213<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Envigado - Colombia</p>
+        <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> +57 3185485911</p>
+        <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> +57 3015142698</p>
+        <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> PBX (57) (4) 440 99 74</p>
+        <p> <img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px">&nbsp;nacomercial@integrandosig.com</p>
+        <p> <img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/facebook_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
     </div>
     <div class="col-md-4">
     <h6 style="color: white">Desarrolador por:</h6>

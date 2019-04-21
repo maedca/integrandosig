@@ -16,7 +16,12 @@
 @include media-breakpoint-between(sm, md) {
 
 }
-
+.navbar{
+  padding-top: 0rem;
+  padding-right: 1rem;
+  padding-bottom: 0rem;
+  padding-left: 1rem;
+}
 .bg-dark {
   background-color: #262f64 !important;
 }

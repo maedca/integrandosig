@@ -45,10 +45,10 @@
 <script>
     $('.responsive').slick({
         dots: false,
-        infinite: false,
-        speed: 100,
+        infinite: true,
+        speed: 5,
         autoplay:true,
-        adaptiveHeight:true,
+        adaptiveHeight:false,
         slidesToShow: 4,
         slidesToScroll: 4,
         responsive: [
@@ -58,7 +58,7 @@
                     slidesToShow: 3,
                     slidesToScroll: 3,
                     infinite: true,
-                    dots: true
+                    dots: false
                 }
             },
             {

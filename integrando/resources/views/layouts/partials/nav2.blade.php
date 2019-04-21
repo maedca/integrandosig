@@ -3,6 +3,7 @@
     <br>
 <img src="{{asset('images/logo_let_azul.png')}}" alt="" style="width: 10%; transform: translateX(250px) " class="">
     <br>
+    <br>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-between" >
     {{--<a class="navbar-brand" href="#" style="margin-left: 50px"  >Navbar</a>--}}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

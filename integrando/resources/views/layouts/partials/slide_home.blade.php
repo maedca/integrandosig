@@ -9,22 +9,22 @@
             <div class="carousel-item active">
                 <img src="{{asset('images/slide_home/slider_int_1.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                    <h5>First slide label</h5>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    {{--<h5>First slide label</h5>--}}
+                    {{--<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>--}}
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="{{asset('images/slide_home/slider_int_2.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                    <h5>Second slide label</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    {{--<h5>Second slide label</h5>--}}
+                    {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>--}}
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="{{asset('images/slide_home/slider_int_3.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                    <h5>Third slide label</h5>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    {{--<h5>Third slide label</h5>--}}
+                    {{--<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>--}}
                 </div>
             </div>
         </div>

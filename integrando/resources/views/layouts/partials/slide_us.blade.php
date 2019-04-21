@@ -7,24 +7,24 @@
         {{--</ol>--}}
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{asset('images/sli_1.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/slider_int_16.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                    <h5>First slide label</h5>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    {{--<h5>First slide label</h5>--}}
+                    {{--<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>--}}
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{asset('images/sli_2.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/slider_int_17.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                    <h5>Second slide label</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    {{--<h5>Second slide label</h5>--}}
+                    {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>--}}
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{asset('images/sli_3.jpg')}}" class="d-block w-100" alt="...">
+                <img src="{{asset('images/slider_int_18.jpg')}}" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
-                    <h5>Third slide label</h5>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    {{--<h5>Third slide label</h5>--}}
+                    {{--<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>--}}
                 </div>
             </div>
         </div>

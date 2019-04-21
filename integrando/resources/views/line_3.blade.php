@@ -9,8 +9,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <br><br><br><br><br>
-                    <p class="text-justify">1. Diseño, implementación y evaluación del SGSST <br><br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
-                    <p class="text-justify">2. Producción de eventos <br><br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño, implementación y evaluación del SGSST <br><br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Producción de eventos <br><br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
 
 
                 </div>
@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-md-4">
                     <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
-                    {{--<img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)" class="d-none d-md-block">--}}
+                    <img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)" class="d-none d-md-block">
                     <br><br>
                 </div>
             </div>
@@ -54,7 +54,7 @@
         <div class="row">
             <div class="col-md-12">
                 <br><br><br><br><br>
-                <p class="text-justify">3. Catering <br><br>Contamos con amplia experiencia en el suministro de alimentos y bebidas preparados, para sus eventos
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Catering <br><br>Contamos con amplia experiencia en el suministro de alimentos y bebidas preparados, para sus eventos
                     en general y empresariales (catering).</p>
 
 

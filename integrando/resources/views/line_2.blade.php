@@ -9,11 +9,11 @@
             <div class="row">
                 <div class="col-md-12">
                     <br><br><br><br><br>
-                    <p class="text-justify">1. Diseño, implementación y evaluación del SGSST <br><br>Servicio que establece la metodología para planear, ejecutar y controlar el sistema de gestión de seguridad y salud en el trabajo,
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño, implementación y evaluación del SGSST <br><br>Servicio que establece la metodología para planear, ejecutar y controlar el sistema de gestión de seguridad y salud en el trabajo,
                         conforme al Decreto 1072 de 2015, a las necesidades de los clientes y a las características de la institución.</p>
-                    <p class="text-justify">2. Diseño, implementación y evaluación del SGC <br><br>Servicio que establece la metodología para planear, ejecutar y controlar el sistema de gestión de calidad, conforme a la norma ISO
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño, implementación y evaluación del SGC <br><br>Servicio que establece la metodología para planear, ejecutar y controlar el sistema de gestión de calidad, conforme a la norma ISO
                         9001:2015, a las necesidades de los clientes y a las características de la institución.</p>
-                    <p class="text-justify">3. Integración de los sistemas de gestión <br><br>Servicio que establece la metodología para denir el conjunto de elementos que interactúan y permiten implantar y alcanzar la
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Integración de los sistemas de gestión <br><br>Servicio que establece la metodología para denir el conjunto de elementos que interactúan y permiten implantar y alcanzar la
                         política y los objetivos de la institución, en lo que se reere a aspectos diversos como pueden ser los de calidad, seguridad y salud en el
                         trabajo, u otras disciplinas de gestión.</p>
 
@@ -60,11 +60,11 @@
         <div class="row">
             <div class="col-md-12">
                 <br><br><br><br><br>
-                <p class="text-justify">4. Educación informal a la medida <br><br>Servicio educativo que brinda oportunidades para complementar, actualizar, perfeccionar, renovar o profundizar conocimientos,
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Educación informal a la medida <br><br>Servicio educativo que brinda oportunidades para complementar, actualizar, perfeccionar, renovar o profundizar conocimientos,
                     habilidades, técnicas y prácticas. La educación informal no conduce a título alguno o certicado de aptitud ocupacional.</p>
-                <p class="text-justify">5. Asesoramiento en calidad educativa<br><br>Contamos con experiencia en el sector educativo, asesorando en temas especícos de los ambientes escolares y fortaleciendo las
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Asesoramiento en calidad educativa<br><br>Contamos con experiencia en el sector educativo, asesorando en temas especícos de los ambientes escolares y fortaleciendo las
                     competencias del talento humano y la gestión educativo.</p>
-                <p class="text-justify">6. Diseño y/o ajuste de proyectos educativos institucionales<br><br>Creamos e intervenimos proyectos educativos institucionales para dar cumplimiento a la Ley conforme a las necesidades
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño y/o ajuste de proyectos educativos institucionales<br><br>Creamos e intervenimos proyectos educativos institucionales para dar cumplimiento a la Ley conforme a las necesidades
                     institucionales.</p>
 
                 <br><br><br>
