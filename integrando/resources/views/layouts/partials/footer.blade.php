@@ -5,8 +5,9 @@
 
     <div class="col-md-4">
         <img src="{{asset('images/logo.svg')}}" alt="" style="width: 50%;">
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet error, nemo possimus quia quo repudiandae voluptatem! Aliquam aspernatur consectetur labore laborum perspiciatis quaerat, vitae. Cum enim et quisquam recusandae repudiandae.</p>
+        <br><br>
+        <p class="h3">Construimos con usted,
+            el éxito de su organización</p>
     </div>
     <div class="col-md-4">
        <p> <img src="{{asset('images/marcador.svg')}}" alt="" class="img-fluid" style="width: 20px"> Calle 49 Sur 45 A 300
@@ -14,7 +15,7 @@
         <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> +57 3185485911</p>
         <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> +57 3015142698</p>
         <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> PBX (57) (4) 440 99 74</p>
-        <p> <img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px">&nbsp;nacomercial@integrandosig.com</p>
+        <p> <img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px">&nbsp;comercial@integrandosig.com</p>
         <p> <img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/facebook_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
     </div>
     <div class="col-md-4">

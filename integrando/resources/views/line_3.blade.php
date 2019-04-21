@@ -28,7 +28,7 @@
                 </div>
                 <div class="col-md-4">
                     <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
-                    <img src="{{asset('images/portafolio_enfuccia.svg')}}" alt="" style="width: 200%; transform: translateX(-850px) translateY(-260px)" class="d-none d-md-block">
+                    <img src="{{asset('images/portafolio/luces_.svg')}}" alt="" style="width: 120%; transform: translateX(-1100px) translateY(-395px)" class="d-none d-md-block">
                     <br><br>
                 </div>
             </div>

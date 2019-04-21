@@ -3,10 +3,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="">
+    <meta name="author" content="Manuel Camacho">
+    <link rel="icon" href="{{asset('images/ico.ico')}}">
 
-    <title></title>
+
+    <title>Integrando sig</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
 
