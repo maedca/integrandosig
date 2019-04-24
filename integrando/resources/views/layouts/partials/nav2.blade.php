@@ -1,10 +1,10 @@
 <div>
 <div class="conainer">
-    <br>
-<img src="{{asset('images/logo_let_azul.png')}}" alt="" style="width: 10%; transform: translateX(250px) " class="">
-    <br>
-    <br>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-between" >
+    <br class="d-none d-sm-block">
+<img src="{{asset('images/logo_let_azul.png')}}" alt="" style="width: 10%; transform: translateX(250px) " class="d-none d-sm-block">
+    <br class="d-none d-sm-block">
+    <br class="d-none d-sm-block">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-between" style="" data-toggle="sticky-onscroll">
     {{--<a class="navbar-brand" href="#" style="margin-left: 50px"  >Navbar</a>--}}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -23,7 +23,7 @@
                     Portafolio
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item {{ (request()->is('line_1')) ? 'activo_line_1' : '' }}" href="/line_1">Línea Estratégica de Sistemas de Gestión el Trabajo</a>
+                    <a class="dropdown-item {{ (request()->is('line_1')) ? 'activo_line_1' : '' }}" href="/line_1">Línea Estratégica de Sistemas de Gestión</a>
                     <a class="dropdown-item  {{ (request()->is('line_2')) ? 'activo_line_2' : '' }}" href="/line_2">Línea Estratégica de Apoyo a la Educación</a>
                     <a class="dropdown-item  {{ (request()->is('line_3')) ? 'activo_line_3' : '' }}" href="/line_3">Línea Estratégica de Eventos</a>
 
