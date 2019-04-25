@@ -9,12 +9,12 @@
         <div class="row">
             <div class="col-md-12">
                 <br><br><br><br><br>
-                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño e implementación del SGSST <br><br>Servicio que establece la metodología para planear y ejecutar el sistema de gestión de seguridad y salud en el trabajo, conforme al
-                    Decreto 1072 de 2015, a las necesidades de los clientes y las características de la organización.</p>
-                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Investigación de accidentes de trabajo <br><br>Servicio que permite descubrir los factores que intervienen en el origen de un accidente de trabajo y sus causas.</p>
-                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Administración del SGSST <br><br>Servicio que permite descubrir los factores que intervienen en el origen de un accidente de trabajo y sus causas.</p>
-                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño y ejecución de programas de promoción y prevención de riesgos laborales <br><br>Servicio de planeación e implementación de los programas que mejoran la calidad de vida de los trabajadores con el fin de prevenir
-                    los incidentes y accidentes de trabajo y las enfermedades laborales.</p>
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño e implementación del SGSST <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Servicio que establece la metodología para planear y ejecutar el sistema de gestión de seguridad y salud en el trabajo, conforme al
+                    Decreto 1072 de 2015, a las necesidades de los &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clientes y las características de la organización.</p>
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Investigación de accidentes de trabajo <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicio que permite descubrir los factores que intervienen en el origen de un accidente de trabajo y sus causas.</p>
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Administración del SGSST <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicio que permite descubrir los factores que intervienen en el origen de un accidente de trabajo y sus causas.</p>
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño y ejecución de programas de promoción y prevención de riesgos laborales <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servicio de planeación e implementación de los programas que mejoran la calidad de vida de los trabajadores con el fin de prevenir
+                    los incidentes y accidentes de trabajo y las &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;enfermedades laborales.</p>
             </div>
         </div>
         </main>

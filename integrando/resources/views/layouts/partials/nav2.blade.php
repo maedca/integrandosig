@@ -1,7 +1,9 @@
 <div>
 <div class="conainer">
     <br class="d-none d-sm-block">
+    {{--<p>Licencia en Seguridad y Salud  en el Trabajo S2019060004999</p>--}}
 <img src="{{asset('images/logo_let_azul.png')}}" alt="" style="width: 10%; transform: translateX(250px) " class="d-none d-sm-block">
+
     <br class="d-none d-sm-block">
     <br class="d-none d-sm-block">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-between" style="" data-toggle="sticky-onscroll">

@@ -194,3 +194,9 @@ html {
   z-index: 1000;
   width: 100%;
 }
+.navbar-dark .navbar-nav .nav-link{
+  font-size: 1.1rem;
+}
+.form-control:focus{
+  box-shadow: none;
+}

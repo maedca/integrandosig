@@ -44,6 +44,18 @@
                     <div class="form-group">
 
 
+                        <select  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" >
+                            <option value="felicitaciones">Felicitaciones</option>
+                            <option value="quejas">Quejas</option>
+                            <option value="sugerencias">Sugerencias</option>
+                            <option value="iquietudes">Inquietudes</option>
+                            <option value="peticiones">Peticiones</option>
+                        </select>
+
+                    </div>
+                    <div class="form-group">
+
+
                         <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Mensaje">
 
                     </div>

@@ -3,6 +3,7 @@
     @include('layouts.partials.slide_work')
 @endsection
 @section('content')
+    <div style="background-color: white">
     <main role="main" class="container" style="background-color: white">
         <div class="row">
 
@@ -46,4 +47,5 @@
         </div>
 
     </main>
+    </div>
 @endsection
