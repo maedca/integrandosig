@@ -27,8 +27,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8" style="color: white">
-
-                    <img src="{{asset('images/portafolio/educacion_verde.png')}}" alt="" style="width: 50%">
+                    <br><br>
+                    <img src="{{asset('images/imagelib.png')}}" alt="" style="width: 100%">
 
                 </div>
                 <div class="col-md-4">
@@ -45,7 +45,7 @@
             <div class="row">
                 <div class="col-md-8">
 
-                    <img src="{{asset('images/portafolio/educacion_verde.png')}}" alt="">
+                    <img src="{{asset('images/imagelib.png')}}" alt="">
 
                 </div>
                 <div class="col-md-4">
@@ -59,15 +59,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <br><br><br><br><br>
+                <br><br>
                 <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Educación informal a la medida <br><br>Servicio educativo que brinda oportunidades para complementar, actualizar, perfeccionar, renovar o profundizar conocimientos,
-                    habilidades, técnicas y prácticas. La educación informal no conduce a título alguno o certicado de aptitud ocupacional.</p>
-                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Asesoramiento en calidad educativa<br><br>Contamos con experiencia en el sector educativo, asesorando en temas especícos de los ambientes escolares y fortaleciendo las
+                    habilidades, técnicas y prácticas. La educación informal no conduce a título alguno o certifícado de aptitud ocupacional.</p>
+                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Asesoramiento en calidad educativa<br><br>Contamos con experiencia en el sector educativo, asesorando en temas específicos de los ambientes escolares y fortaleciendo las
                     competencias del talento humano y la gestión educativo.</p>
                 <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño y/o ajuste de proyectos educativos institucionales<br><br>Creamos e intervenimos proyectos educativos institucionales para dar cumplimiento a la Ley conforme a las necesidades
                     institucionales.</p>
 
-                <br><br><br>
+                <br>
             </div>
         </div>
     </div>

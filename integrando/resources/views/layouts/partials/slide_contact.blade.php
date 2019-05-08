@@ -21,20 +21,6 @@
                 <div class="carousel-caption d-none d-md-block" style="top:50%">
                 </div>
             </div>
-            {{--<div class="carousel-item">--}}
-                {{--<img src="{{asset('images/trabaja/slide-2.jpg')}}" class="d-block w-100" alt="...">--}}
-                {{--<div class="carousel-caption d-none d-md-block" style="top:50%">--}}
-                    {{--<h5>Second slide label</h5>--}}
-                    {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-            {{--<div class="carousel-item">--}}
-                {{--<img src="{{asset('images/trabaja/slide-3.jpg')}}" class="d-block w-100" alt="...">--}}
-                {{--<div class="carousel-caption d-none d-md-block" style="top:50%">--}}
-                    {{--<h5>Third slide label</h5>--}}
-                    {{--<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>--}}
-                {{--</div>--}}
-            {{--</div>--}}
         </div>
         {{--<a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">--}}
         {{--<span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}

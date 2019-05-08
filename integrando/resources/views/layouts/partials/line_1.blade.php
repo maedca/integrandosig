@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-md-6">
             <br><br><br><br><br><br>
-            <h1 style="color: white; font-size: 3rem">Seguridad y Salud en
+            <h1 style="color: white; font-size: 2rem">Sistema de Gestion de Seguridad y Salud en
                 el Trabajo</h1>
         </div>
         <div class="col-md-6">
@@ -18,14 +18,14 @@
     <div class="container-fluid" style="z-index: 999">
         <div class="row">
             <div class="col-md-6">
-                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <h1 style="color: white">Seguridad en
+                <br><br><br><br><br>
+                <h1 style="color: white">Sistema de Gestion de Seguridad y Salud en
                     el Trabajo</h1>
             </div>
-            <div class="col-md-6">
-                <br><br><br><br><br><br><br><br><br>
-                <img src="{{asset('images/portafolio/img_2.jpg')}}" alt="" class="d-none d-md-block">
-            </div>
+            {{--<div class="col-md-6">--}}
+                {{--<br><br><br><br><br><br><br><br><br>--}}
+                {{--<img src="{{asset('images/portafolio/img_2.jpg')}}" alt="" class="d-none d-md-block">--}}
+            {{--</div>--}}
         </div>
 
     </div>

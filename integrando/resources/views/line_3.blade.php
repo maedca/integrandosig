@@ -11,24 +11,26 @@
                     <br><br><br><br><br>
                     <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño, implementación y evaluación del SGSST <br><br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
                     <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Producción de eventos <br><br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
-
+                    <p>Trabajamos en la integración de servicios para la realización de eventos corporativos, de espectáculos, fiestas
+                        empresariales, conciertos a gran escala y en general en actividades de entretenimiento.
+                        Incursionamos en el área de BTL, hacemos referencia a la conceptualización, planeación y ejecución de toda
+                        clase de eventos o actividades de mercadeo relacionada con la promoción de servicios y/o producto.</p>
 
                 </div>
             </div>
         </main>
     </div>
 
-    <div style="background-color: #d21466; height: 400px" class="d-none d-md-block">
-        <br><br>
+    <div style="background-color: #d21466; height: 300px" class="d-none d-md-block">
         <div class="container">
             <div class="row">
-                <div class="col-md-8" style="color: white; " >
-
-
+                <div class="col-md-6" style="color: white; " >
+                    <img src="{{asset('images/portafolio/luces_.svg')}}" alt="" style="width: 59%; transform: translateX(-300px); z-index:-1" class="d-none d-md-block">
                 </div>
-                <div class="col-md-4">
-                    <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 100%" class="d-none d-md-block">
-                    <img src="{{asset('images/portafolio/luces_.svg')}}" alt="" style="width: 120%; transform: translateX(-1100px) translateY(-395px)" class="d-none d-md-block">
+
+                <div class="col-md-6">
+                    <img src="{{asset('images/portafolio/boleta.svg')}}" alt="" style="width: 55%;transform: translateX(200px)" class="d-none d-md-block img-fluid">
+
                     <br><br>
                 </div>
             </div>

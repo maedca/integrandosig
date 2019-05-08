@@ -85,12 +85,12 @@
         <div class="row">
             <div class="col-md-6 offset-6  d-none d-md-block">
                 <br><br><br><br><br>
-                <h1 style="color: white">Sistemas de Gestión
+                <h1 style="color: white">Sistema de Gestión de calidad - Sistema de gestion ambiental
                     de Calidad</h1>
             </div>
             <div class="col-sm-12 d-lg-none">
                 <br><br><br><br><br>
-                <h1 style="color: white" class="text-center">Sistemas de Gestión
+                <h1 style="color: white" class="text-center">Sistema de Gestión de calidad - Sistema de gestion ambiental
                     de Calidad</h1>
             </div>
         </div>
@@ -190,12 +190,12 @@
         <div class="row">
             <div class="col-md-6 offset-6  d-none d-md-block">
                 <br><br><br><br><br>
-                <h1 style="color: white">Auditorías a los Sistemas
+                <h1 style="color: white">Auditoría a los Sistemas
                     de Gestión</h1>
             </div>
             <div class="col-sm-12 d-lg-none">
                 <br><br><br><br><br>
-                <h1 style="color: white" class="text-center">Auditorías a los Sistemas
+                <h1 style="color: white" class="text-center">Auditoría a los Sistemas
                     de Gestión</h1>
             </div>
         </div>
@@ -238,12 +238,12 @@
         <div class="row">
             <div class="col-md-6 offset-1 d-none d-md-block">
                 <br><br><br><br><br>
-                <h1 style="color: white">Integración los
+                <h1 style="color: white">Integración de los
                     Sistemas de Gestión</h1>
             </div>
             <div class="col-sm-12 d-lg-none">
                 <br><br><br><br><br>
-                <h1 style="color: white" class="text-center">Integración los
+                <h1 style="color: white" class="text-center">Integración de los
                     Sistemas de Gestión</h1>
             </div>
         </div>

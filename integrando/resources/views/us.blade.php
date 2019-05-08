@@ -39,12 +39,13 @@
                 <div class="col-sm-4">
                     <h3>¿Qué hacemos?</h3>
                     <p class="text-justify">
-                        Posicionarnos en el 2025, como una
-                        empresa comprometida con el desarrollo
-                        organizacional y la producción de eventos
-                        a gran escala, satisfaciendo las necesidades
-                        y expectativas de nuestras partes
-                        interesadas en el ámbito nacional e
+                        Construimos con nuestros clientes, el éxito de sus
+                        organizaciones a través del diseño, implementación y
+                        evaluación de sistemas de gestión. Apoyamos así mismo,
+                        la calidad educativa de las instituciones del país y
+                        producimos eventos a gran escala; satisfaciendo con un
+                        equipo altamente comprometido, las necesidades y
+                        expectativas de las partes interesadas.
                     </p>
                 </div>
             </div>
@@ -52,17 +53,17 @@
             <div class="row">
                 <div class="col-sm-8">
                     <h3>¿Cómo lo hacemos?</h3>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Establecemos
+                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Establecemos
                         contacto con nuestros clientes para programar visitas técnicas</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Realizamos
+                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Realizamos
                         un diagnóstico para identificar las necesidades específicas.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Diseñamos
+                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Diseñamos
                         una propuesta conforme a las necesidades puntuales de nuestros clientes.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Ponemos
+                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Ponemos
                         en marcha el equipo de humano de Integrando.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Realizamos
+                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Realizamos
                         seguimiento durante y después de nuestros proyectos.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Los
+                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Los
                         clientes evalúan la satisfacción con nuestros servicios.</p>
                 </div>
             </div>
@@ -77,7 +78,7 @@
         <div class="container d-none d-md-block" style="color: black;height: 450px">
             <div class="row">
                 <div class="col-sm-4">
-                    <br><br><br><br>
+                    <br><br>
                     <h3>Política Integrada de Gestión</h3>
                 </div>
             </div>
@@ -107,7 +108,7 @@
                     </p>
                     <p class="text-justify">La presente política es aprobada en Itagüí el día 22 de marzo de 2018</p>
                     <p class="text-justify">Lisseth A. Sánchez Henao <br>Gerente</p>
-                    <br><br><br>
+                    <br><br>
                 </div>
             </div>
             {{--<div class="row">--}}
@@ -160,15 +161,15 @@
     </div>
     {{--<div class="parallax d-none d-md-block"></div>--}}
 
-    <div class="responsive d-none d-md-block" style="height: 300px; width: 100%">
-        <div><img src="{{asset('images/nosotros/anima_1.jpg')}}" alt=""></div>
-        <div><img src="{{asset('images/nosotros/anima_2.jpg')}}" alt=""></div>
-        <div><img src="{{asset('images/nosotros/anima_3.jpg')}}" alt=""></div>
-        <div><img src="{{asset('images/nosotros/anima_4.jpg')}}" alt=""></div>
-        <div><img src="{{asset('images/nosotros/anima_5.jpg')}}" alt=""></div>
-        <div><img src="{{asset('images/nosotros/anima_6.jpg')}}" alt=""></div>
+    {{--<div class="responsive d-none d-md-block" style="height: 300px; width: 100%">--}}
+        {{--<div><img src="{{asset('images/nosotros/anima_1.jpg')}}" alt=""></div>--}}
+        {{--<div><img src="{{asset('images/nosotros/anima_2.jpg')}}" alt=""></div>--}}
+        {{--<div><img src="{{asset('images/nosotros/anima_3.jpg')}}" alt=""></div>--}}
+        {{--<div><img src="{{asset('images/nosotros/anima_4.jpg')}}" alt=""></div>--}}
+        {{--<div><img src="{{asset('images/nosotros/anima_5.jpg')}}" alt=""></div>--}}
+        {{--<div><img src="{{asset('images/nosotros/anima_6.jpg')}}" alt=""></div>--}}
 
-    </div>
+    {{--</div>--}}
 
     <div style="background-color: white; height: 518px " class="d-none d-md-block">
         <div class="container">
@@ -183,14 +184,18 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
-                                                 style="width: 2%">Gerenciar la empresa mediante el fortalecimiento del
+                    {{--<ul>--}}
+                        {{--<li>hola</li>--}}
+                    {{--</ul>--}}
+
+                    <p class=""><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">
+                        Gerenciar la empresa mediante el fortalecimiento del
                         sistema integrado de gestión, asegurando su sostenibilidad y la protección de
                         sus colaboradores, para el mejoramiento continuo del servicio que presta y el cumplimiento de su
                         política integrada a través de la identificación de peligros, evaluación y valoración de
                         riesgos, el control de los mismos y el cumplimiento de la normatividad legal vigente.</p>
                     <p class="text-justify">
-                        <img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%">Asegurar
+                        <img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta" >Asegurar
                         el mejoramiento del Sistema Integrado de Gestión, promoviendo la eficacia en las acciones, para
                         el fortalecimiento de la cultura
                         de la calidad, la seguridad y salud en el trabajo y la protección y tratamiento de la

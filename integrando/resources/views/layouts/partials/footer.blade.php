@@ -16,7 +16,7 @@
         <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> +57 3015142698</p>
         <p> <img src="{{asset('images/telefono.svg')}}" alt="" class="img-fluid" style="width: 20px"> PBX (57) (4) 440 99 74</p>
         <p> <img src="{{asset('images/mail.svg')}}" alt="" class="img-fluid" style="width: 20px">&nbsp;comercial@integrandosig.com</p>
-        <p> <img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/facebook_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
+        <p> <img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/facebook_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/insta_b.svg')}}" alt="" class="img-fluid" style="width: 20px"> &nbsp; &nbsp;&nbsp;&nbsp;<img src="{{asset('images/mesenguer_g.svg')}}" alt="" class="img-fluid" style="width: 20px"> </p>
     </div>
     <div class="col-md-4">
     <h6 style="color: white">Desarrolador por:</h6>

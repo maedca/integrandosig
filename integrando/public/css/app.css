@@ -10839,6 +10839,23 @@ html {
   font-family: "Myrad" !important;
 }
 
+@font-face {
+  font-family: "Aller";
+  /* Antes de descargar el archivo, le decimos al buscador
+  que intente buscar en local la fuente con nombre
+  Cabin, Cabin Regular o Cabin-Regular */
+  src: url(/fonts/Aller_Rg.ttf?785388a9e6416c286ec82ff966c696fd) format("truetype");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Aller" !important;
+}
+
 .sticky.is-sticky {
   position: fixed;
   left: 0;
@@ -10854,5 +10871,14 @@ html {
 
 .form-control:focus {
   box-shadow: none;
+}
+
+.vineta {
+  width: 3%;
+  padding-right: 5px;
+}
+
+ul {
+  list-style-image: url(/images/pieza_rompe.svg?84b465f67d44d8e41249621c0c9e0e4a);
 }
 
