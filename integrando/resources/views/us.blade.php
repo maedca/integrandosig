@@ -184,11 +184,8 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    {{--<ul>--}}
-                        {{--<li>hola</li>--}}
-                    {{--</ul>--}}
 
-                    <p class=""><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">
+                    <p class="text-justify"> <span class="icon-pieza_rompe"></span>
                         Gerenciar la empresa mediante el fortalecimiento del
                         sistema integrado de gestión, asegurando su sostenibilidad y la protección de
                         sus colaboradores, para el mejoramiento continuo del servicio que presta y el cumplimiento de su

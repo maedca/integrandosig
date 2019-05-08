@@ -25,7 +25,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6" style="color: white; " >
-                    <img src="{{asset('images/portafolio/luces_.svg')}}" alt="" style="width: 59%; transform: translateX(-300px); z-index:-1" class="d-none d-md-block">
+                    <img src="{{asset('images/lucespng.png')}}" alt="" style="width: 65%; transform: translateX(-210px)      " class="d-none d-md-block">
                 </div>
 
                 <div class="col-md-6">
