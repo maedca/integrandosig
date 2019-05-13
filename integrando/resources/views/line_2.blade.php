@@ -13,8 +13,8 @@
                         conforme al Decreto 1072 de 2015, a las necesidades de los clientes y a las características de la institución.</p>
                     <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño, implementación y evaluación del SGC <br><br>Servicio que establece la metodología para planear, ejecutar y controlar el sistema de gestión de calidad, conforme a la norma ISO
                         9001:2015, a las necesidades de los clientes y a las características de la institución.</p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Integración de los sistemas de gestión <br><br>Servicio que establece la metodología para denir el conjunto de elementos que interactúan y permiten implantar y alcanzar la
-                        política y los objetivos de la institución, en lo que se reere a aspectos diversos como pueden ser los de calidad, seguridad y salud en el
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Integración de los sistemas de gestión <br><br>Servicio que establece la metodología para definir el conjunto de elementos que interactúan y permiten implantar y alcanzar la
+                        política y los objetivos de la institución, en lo que se refiere a aspectos diversos como pueden ser los de calidad, seguridad y salud en el
                         trabajo, u otras disciplinas de gestión.</p>
 
                 </div>

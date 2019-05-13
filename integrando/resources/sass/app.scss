@@ -32,6 +32,7 @@
 carousel-caption{
   top: 50%;
 }
+body{background-color: white}
 @include media-breakpoint-up(sm) {
   //.my-carousel{
   //  margin-top: -190px;
@@ -227,17 +228,17 @@ h1,h2,h3,h4,h5,h6{
 //  background-repeat: no-repeat;
 //  padding-left: -15px;
 //}
-li{
-  list-style: none;
-}
-li:before{
-  content: '';
-  display: inline-block;
-  height: 20px;
-  width: 20px;
-  background-repeat: no-repeat;
-  background-image: url('../../public/images/nosotros/pieza_rompe.svg');
-}
+//li{
+//  list-style: none;
+//}
+//li:before{
+//  content: '';
+//  display: inline-block;
+//  height: 20px;
+//  width: 20px;
+//  background-repeat: no-repeat;
+//  background-image: url('../../public/images/nosotros/pieza_rompe.svg');
+//}
 @font-face {
   font-family: 'icomoon';
 

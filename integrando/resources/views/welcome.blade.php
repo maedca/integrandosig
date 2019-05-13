@@ -53,6 +53,6 @@
 
     </main>
     <div style="background-color: transparent">
-        <img src="{{asset('images/index_rompe.png')}}" alt="" style="width: 100%" class="img-fluid">
+        <img src="{{asset('images/index_rompe.png')}}" alt="" style="width: 80%" class="img-fluid">
     </div>
      @endsection

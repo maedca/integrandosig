@@ -8,13 +8,11 @@
         <main role="main" class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <br><br><br><br><br>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Diseño, implementación y evaluación del SGSST <br><br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Producción de eventos <br><br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
-                    <p>Trabajamos en la integración de servicios para la realización de eventos corporativos, de espectáculos, fiestas
-                        empresariales, conciertos a gran escala y en general en actividades de entretenimiento.
-                        Incursionamos en el área de BTL, hacemos referencia a la conceptualización, planeación y ejecución de toda
-                        clase de eventos o actividades de mercadeo relacionada con la promoción de servicios y/o producto.</p>
+                    <br><br>
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Booking de artistas <br><br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Producción de eventos<br><br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Catering <br><br>Contamos con amplia experiencia en el suministro de alimentos y bebidas preparados, para sus eventos
+                        en general y empresariales (catering).</p>
 
                 </div>
             </div>
@@ -52,18 +50,7 @@
             </div>
         </div>
     </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <br><br><br><br><br>
-                <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Catering <br><br>Contamos con amplia experiencia en el suministro de alimentos y bebidas preparados, para sus eventos
-                    en general y empresariales (catering).</p>
 
-
-                <br><br><br>
-            </div>
-        </div>
-    </div>
     <div class="parallax-3 d-none d-md-block"></div>
     {{--<div style="background-color: black; height: 300px">--}}
     {{--<div class="row">--}}
@@ -254,8 +241,41 @@
     {{--</div>--}}
     {{--</div>--}}
     {{--</div>--}}
+    <br><br>
+   <div class="container">
+       <div class="col-sm-12">
+           <p>Trabajamos en la integración de servicios para la realización de eventos corporativos, de espectáculos, fiestas empresariales, conciertos a gran
+               escala y en general en actividades de entretenimiento</p>
+           <p>Incursionamos en el área de BTL, hacemos referencia a la conceptualización, planeación y ejecución de toda clase de eventos o actividades de
+               mercadeo relacionada con la promoción de servicios y/o producto.</p>
+       </div>
+   </div>
+    <br><br>
+<div class="container">
+    <div class="row">
+
+        <div class="col-sm-2">
+            <a data-fancybox="gallery" href="{{asset('images/nosotros/galeria/gal_1.jpg')}}"><img src="{{asset('images/nosotros/galeria/gal_1.jpg')}}" style="width: 100%"></a>
+        </div>
+        <div class="col-sm-2">
+            <a data-fancybox="gallery" href="{{asset('images/nosotros/galeria/gal_2.jpg')}}"><img src="{{asset('images/nosotros/galeria/gal_2.jpg')}}" style="width: 100%"></a>
+        </div>
+        <div class="col-sm-2">
+            <a data-fancybox="gallery" href="{{asset('images/nosotros/galeria/gal_3.jpg')}}"><img src="{{asset('images/nosotros/galeria/gal_3.jpg')}}" style="width: 100%"></a>
+        </div>
+        <div class="col-sm-2">
+            <a data-fancybox="gallery" href="{{asset('images/nosotros/galeria/gal_4.jpg')}}"><img src="{{asset('images/nosotros/galeria/gal_4.jpg')}}" style="width: 100%"></a>
+        </div>
+        <div class="col-sm-2">
+            <a data-fancybox="gallery" href="{{asset('images/nosotros/galeria/gal_5.jpeg')}}"><img src="{{asset('images/nosotros/galeria/gal_5.jpeg')}}" style="width: 100%"></a>
+        </div>
+        <div class="col-sm-2">
+            <a data-fancybox="gallery" href="{{asset('images/nosotros/galeria/gal_6.jpeg')}}"><img src="{{asset('images/nosotros/galeria/gal_6.jpeg')}}" style="width: 100%"></a>
+        </div>
+    </div>
 
 
-
+</div>
+    <br><br><br>
 
 @endsection

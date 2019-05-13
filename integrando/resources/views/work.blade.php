@@ -41,7 +41,7 @@
                 </form>
             </div>
             <div class="col-sm-6">
-                <img src="{{asset('images/contactenos/nosotros_1.jpg')}}" alt="" style="width: 100%; transform: translateX(200px)">
+                <img src="{{asset('images/trabaja/nosotros_2.png')}}" alt="" style="width: 100%; transform: translateX(200px)">
             </div>
 
         </div>

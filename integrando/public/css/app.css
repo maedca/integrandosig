@@ -10679,6 +10679,10 @@ carousel-caption {
   top: 50%;
 }
 
+body {
+  background-color: white;
+}
+
 @media (min-width: 576px) {
   .navbar-expand-lg .navbar-collapse {
     padding-right: 200px;
@@ -10876,18 +10880,6 @@ h6 {
 .vineta {
   width: 3%;
   padding-right: 5px;
-}
-
-li {
-  list-style: none;
-}
-
-li:before {
-  display: inline-block;
-  height: 20px;
-  width: 20px;
-  background-repeat: no-repeat;
-  background-image: url(/images/pieza_rompe.svg?84b465f67d44d8e41249621c0c9e0e4a);
 }
 
 @font-face {

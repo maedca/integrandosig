@@ -152,26 +152,26 @@
                     <br><br><br>
                 </div>
             </div>
-            <div class="row">
-                <img src="{{asset('images/nosotros_blanco.svg')}}" alt=""
-                     style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)"
-                     class="d-none d-md-block">
-            </div>
+            {{--<div class="row">--}}
+                {{--<img src="{{asset('images/nosotros_blanco.svg')}}" alt=""--}}
+                     {{--style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)"--}}
+                     {{--class="d-none d-md-block">--}}
+            {{--</div>--}}
         </div>
     </div>
     {{--<div class="parallax d-none d-md-block"></div>--}}
 
     {{--<div class="responsive d-none d-md-block" style="height: 300px; width: 100%">--}}
-        {{--<div><img src="{{asset('images/nosotros/anima_1.jpg')}}" alt=""></div>--}}
-        {{--<div><img src="{{asset('images/nosotros/anima_2.jpg')}}" alt=""></div>--}}
-        {{--<div><img src="{{asset('images/nosotros/anima_3.jpg')}}" alt=""></div>--}}
-        {{--<div><img src="{{asset('images/nosotros/anima_4.jpg')}}" alt=""></div>--}}
-        {{--<div><img src="{{asset('images/nosotros/anima_5.jpg')}}" alt=""></div>--}}
-        {{--<div><img src="{{asset('images/nosotros/anima_6.jpg')}}" alt=""></div>--}}
+    {{--<div><img src="{{asset('images/nosotros/anima_1.jpg')}}" alt=""></div>--}}
+    {{--<div><img src="{{asset('images/nosotros/anima_2.jpg')}}" alt=""></div>--}}
+    {{--<div><img src="{{asset('images/nosotros/anima_3.jpg')}}" alt=""></div>--}}
+    {{--<div><img src="{{asset('images/nosotros/anima_4.jpg')}}" alt=""></div>--}}
+    {{--<div><img src="{{asset('images/nosotros/anima_5.jpg')}}" alt=""></div>--}}
+    {{--<div><img src="{{asset('images/nosotros/anima_6.jpg')}}" alt=""></div>--}}
 
     {{--</div>--}}
 
-    <div style="background-color: white; height: 518px " class="d-none d-md-block">
+    <div style="background-color: white; height: 330px; transform: translateY(-100px) " class="d-none d-md-block">
         <div class="container">
             <div class="row">
 
@@ -185,14 +185,16 @@
             <div class="row">
                 <div class="col-md-12">
 
-                    <p class="text-justify"> <span class="icon-pieza_rompe"></span>
+                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
+                                                 style="width: 2%">
                         Gerenciar la empresa mediante el fortalecimiento del
                         sistema integrado de gestión, asegurando su sostenibilidad y la protección de
                         sus colaboradores, para el mejoramiento continuo del servicio que presta y el cumplimiento de su
                         política integrada a través de la identificación de peligros, evaluación y valoración de
                         riesgos, el control de los mismos y el cumplimiento de la normatividad legal vigente.</p>
                     <p class="text-justify">
-                        <img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta" >Asegurar
+                        <img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
+                             style="width: 2%">Asegurar
                         el mejoramiento del Sistema Integrado de Gestión, promoviendo la eficacia en las acciones, para
                         el fortalecimiento de la cultura
                         de la calidad, la seguridad y salud en el trabajo y la protección y tratamiento de la
@@ -212,7 +214,7 @@
                         procurando el desarrollo operacional de los procesos, la rentabilidad y sostenibilidad
                         de la empresa.</p>
                     <img src="{{asset('images/nosotros/pieza_rompe-01.svg')}}" alt=""
-                         style="width: 20%; transform: translateX(-200px) translateY(-70px)">
+                         style="width: 20%; transform: translateX(-200px) translateY(-150px)">
                     <br><br><br><br>
 
                 </div>

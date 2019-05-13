@@ -69,7 +69,7 @@
             </div>
             <div class="col-sm-6">
 
-                <img src="{{asset('images/contactenos/contacto_2.jpg')}}" alt="" class="img-fluid d-none d-md-block" style="width:100%; transform: translateX(200px) "  >
+                <img src="{{asset('images/contactenos/contacto_1.png')}}" alt="" class="img-fluid d-none d-md-block" style="width:100%; transform: translateX(200px) "  >
 
             </div>
 
