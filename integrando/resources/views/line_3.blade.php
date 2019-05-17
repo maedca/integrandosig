@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <br><br>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Booking de artistas <br><br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Producción de eventos<br><br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid" style="width: 2%"> Catering <br><br>Contamos con amplia experiencia en el suministro de alimentos y bebidas preparados, para sus eventos
+                    <p class="text-justify"> Booking de artistas <br>Contratamos artistas y sus giras a escala nacional e internacional en todos los géneros musicales.</p>
+                    <p class="text-justify">Producción de eventos<br>Producimos conciertos y eventos a gran escala a nivel nacional.</p>
+                    <p class="text-justify">Catering <br>Contamos con amplia experiencia en el suministro de alimentos y bebidas preparados, para sus eventos
                         en general y empresariales (catering).</p>
 
                 </div>
