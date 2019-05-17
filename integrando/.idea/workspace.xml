@@ -1,172 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7f1a216-42bf-4982-8655-e084039dfce9" name="Default Changelist" comment="">
+    <list default="true" id="057ee7e4-7a77-4a72-ad31-7edba9eaa233" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/partials/nav2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/partials/nav2.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/line_1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/line_1.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/line_2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/line_2.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/line_3.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/line_3.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/us.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/line_1.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
-              <folding>
-                <element signature="e#415#432#0#HTML" expanded="true" />
-                <element signature="e#10161#10198#0#HTML" expanded="true" />
-                <element signature="e#10277#10297#0#HTML" expanded="true" />
-                <element signature="e#10427#10444#0#HTML" expanded="true" />
-                <element signature="e#10790#10807#0#HTML" expanded="true" />
-                <element signature="e#11091#11108#0#HTML" expanded="true" />
-                <element signature="e#13720#13757#0#HTML" expanded="true" />
-                <element signature="e#13986#14003#0#HTML" expanded="true" />
-                <element signature="e#14369#14386#0#HTML" expanded="true" />
-                <element signature="e#14690#14707#0#HTML" expanded="true" />
-                <element signature="e#15337#15354#0#HTML" expanded="true" />
-                <element signature="e#15720#15737#0#HTML" expanded="true" />
-                <element signature="e#16041#16058#0#HTML" expanded="true" />
-                <element signature="e#17479#17496#0#HTML" expanded="true" />
-                <element signature="e#17615#17632#0#HTML" expanded="true" />
-                <element signature="e#17749#17766#0#HTML" expanded="true" />
-                <element signature="e#17883#17900#0#HTML" expanded="true" />
-                <element signature="e#18424#18441#0#HTML" expanded="true" />
-                <element signature="e#18787#18804#0#HTML" expanded="true" />
-                <element signature="e#19088#19105#0#HTML" expanded="true" />
-                <element signature="e#19905#19931#0#HTML" expanded="true" />
-                <element signature="e#20078#20115#0#HTML" expanded="true" />
-                <element signature="e#20344#20361#0#HTML" expanded="true" />
-                <element signature="e#21310#21327#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="55" column="78" selection-start-line="55" selection-start-column="78" selection-end-line="55" selection-end-column="78" />
-              <folding>
-                <element signature="e#2276#2313#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/line_2.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-760">
-              <caret line="16" column="85" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/line_3.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-              <folding>
-                <element signature="e#1699#1754#0#HTML" expanded="true" />
-                <element signature="e#13161#13179#0#HTML" expanded="true" />
-                <element signature="e#13363#13381#0#HTML" expanded="true" />
-                <element signature="e#13603#13621#0#HTML" expanded="true" />
-                <element signature="e#13824#13842#0#HTML" expanded="true" />
-                <element signature="e#14050#14069#0#HTML" expanded="true" />
-                <element signature="e#14272#14291#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="71" column="68" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
-              <folding>
-                <element signature="e#204#235#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="276">
+              <caret line="273" column="1" selection-start-line="273" selection-start-column="1" selection-end-line="273" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/work.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/line_2.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="42" column="104" selection-start-line="42" selection-start-column="104" selection-end-line="42" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="240" column="3" selection-start-line="230" selection-start-column="2" selection-end-line="240" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/us.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1266">
-              <caret line="212" column="64" selection-start-line="212" selection-start-column="64" selection-end-line="212" selection-end-column="64" />
-              <folding>
-                <element signature="e#127#157#0#HTML" expanded="true" />
-                <element signature="e#3715#3746#0#HTML" expanded="true" />
-                <element signature="e#6454#6499#0#HTML" expanded="true" />
-                <element signature="e#9827#9874#0#HTML" expanded="true" />
-                <element signature="e#10441#10458#0#HTML" expanded="true" />
-                <element signature="e#11119#11136#0#HTML" expanded="true" />
-                <element signature="e#11514#11531#0#HTML" expanded="true" />
-                <element signature="e#11924#11941#0#HTML" expanded="true" />
-                <element signature="e#12767#12834#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="23">
+              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -175,27 +46,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sty</find>
-      <find>footer</find>
-      <find>sistemas de ges</find>
-      <find>calidad</find>
-      <find>con</find>
-      <find>container</find>
-      <find>objetivos del</find>
-      <find>conta</find>
-      <find>navbar</find>
-      <find>fluid</find>
-      <find>font</find>
-      <find>auditorías</find>
-      <find>Servicio</find>
+      <find>Diseño e implementación del SGC</find>
+      <find>Diseño e implementación del SGA</find>
+      <find>Servicio documentado</find>
+      <find>Integración de los sistemas de gestión conforme al Decreto 1072 de 2015</find>
+      <find>SIG</find>
     </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>container-fluid</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\USER\Documents\projects\integrandosig\integrando\public\images</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -203,29 +59,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/views/layouts/blog.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/nav.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/slide_blog.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/slide_work.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/slide_home.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/line_2.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/line_3.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/slide_us.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/blog.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/work.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/nav2.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/slide_contact.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/footer.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/partials/line_1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/us.blade.php" />
+        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/line_1.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/line_2.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
-        <option value="$PROJECT_DIR$/resources/views/us.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/line_3.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/contact.blade.php" />
       </list>
     </option>
   </component>
@@ -315,14 +153,13 @@
     <option name="width" value="980" />
     <option name="height" value="525" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -333,76 +170,18 @@
             <path>
               <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
               <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="nosotros" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="nosotros" type="462c0819:PsiDirectoryNode" />
-              <item name="galeria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
               <item name="integrando" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="integrando" type="b2602c69:ProjectViewProjectNode" />
-              <item name="integrando" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,20 +189,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\images" />
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\fonts" />
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\images\contactenos" />
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\images\trabaja" />
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\images\slide_blog" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\public\fonts" />
-      <recent name="C:\Users\USER\Documents\projects\integrandosig\integrando\resources\views" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -448,409 +214,102 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7f1a216-42bf-4982-8655-e084039dfce9" name="Default Changelist" comment="" />
-      <created>1552616447141</created>
+      <changelist id="057ee7e4-7a77-4a72-ad31-7edba9eaa233" name="Default Changelist" comment="" />
+      <created>1558114157327</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552616447141</updated>
-      <workItem from="1552616448387" duration="3020000" />
-      <workItem from="1552619642909" duration="6065000" />
-      <workItem from="1552670302747" duration="29694000" />
-      <workItem from="1553284121984" duration="6250000" />
-      <workItem from="1553986355370" duration="26000" />
-      <workItem from="1555008180463" duration="15666000" />
-      <workItem from="1555424425765" duration="56000" />
-      <workItem from="1555793320328" duration="3223000" />
-      <workItem from="1555863605740" duration="7532000" />
-      <workItem from="1556071800610" duration="5193000" />
-      <workItem from="1556225408846" duration="827000" />
-      <workItem from="1556541642210" duration="76000" />
-      <workItem from="1556542538466" duration="53000" />
-      <workItem from="1556636079508" duration="637000" />
-      <workItem from="1556811192646" duration="905000" />
-      <workItem from="1557261597922" duration="47000" />
-      <workItem from="1557322353910" duration="8555000" />
-      <workItem from="1557331985311" duration="3917000" />
-      <workItem from="1557603240036" duration="424000" />
-      <workItem from="1557752984913" duration="9004000" />
+      <updated>1558114157327</updated>
+      <workItem from="1558114158561" duration="3098000" />
     </task>
+    <task id="LOCAL-00001" summary="some changes">
+      <created>1558114620336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558114620336</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some changes">
+      <created>1558115786292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558115786293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101170000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="3098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32080537" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31617647" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+    <entry file="file://$PROJECT_DIR$/resources/views/line_1.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1242" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/whatsapp_b.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/marcador.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio/escudo_1.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio/boleta.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/trabaja/slide-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/fonts/MyriadPro-Regular.ttf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/face_g.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/mail.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/nosotros_blanco.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/nosotros_azul.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio_enamarillo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio_enverde.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio_enfuccia.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/nav.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio/parallax_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/slick-theme.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/slick.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/slide_blog.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="95" selection-start-line="25" selection-start-column="19" selection-end-line="26" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/mail_b.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/slide_work.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/telefono.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/nosotros/pieza_rompe.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/nosotros/pieza_rompe-01.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/line_2.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/line_3.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/blog.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/portafolio/luces_.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/nav2.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/slide_home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="95" selection-start-line="25" selection-start-column="18" selection-end-line="26" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/slide_us.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/slide_contact.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/fonts/Aller_Rg.ttf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/mesenguer_g.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="18" column="397" selection-start-line="18" selection-start-column="397" selection-end-line="18" selection-end-column="397" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/partials/line_1.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="98">
+          <caret line="273" column="33" selection-start-line="273" selection-start-column="33" selection-end-line="273" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="55" column="78" selection-start-line="55" selection-start-column="78" selection-end-line="55" selection-end-column="78" />
-          <folding>
-            <element signature="e#2276#2313#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/line_1.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
-          <folding>
-            <element signature="e#415#432#0#HTML" expanded="true" />
-            <element signature="e#10161#10198#0#HTML" expanded="true" />
-            <element signature="e#10277#10297#0#HTML" expanded="true" />
-            <element signature="e#10427#10444#0#HTML" expanded="true" />
-            <element signature="e#10790#10807#0#HTML" expanded="true" />
-            <element signature="e#11091#11108#0#HTML" expanded="true" />
-            <element signature="e#13720#13757#0#HTML" expanded="true" />
-            <element signature="e#13986#14003#0#HTML" expanded="true" />
-            <element signature="e#14369#14386#0#HTML" expanded="true" />
-            <element signature="e#14690#14707#0#HTML" expanded="true" />
-            <element signature="e#15337#15354#0#HTML" expanded="true" />
-            <element signature="e#15720#15737#0#HTML" expanded="true" />
-            <element signature="e#16041#16058#0#HTML" expanded="true" />
-            <element signature="e#17479#17496#0#HTML" expanded="true" />
-            <element signature="e#17615#17632#0#HTML" expanded="true" />
-            <element signature="e#17749#17766#0#HTML" expanded="true" />
-            <element signature="e#17883#17900#0#HTML" expanded="true" />
-            <element signature="e#18424#18441#0#HTML" expanded="true" />
-            <element signature="e#18787#18804#0#HTML" expanded="true" />
-            <element signature="e#19088#19105#0#HTML" expanded="true" />
-            <element signature="e#19905#19931#0#HTML" expanded="true" />
-            <element signature="e#20078#20115#0#HTML" expanded="true" />
-            <element signature="e#20344#20361#0#HTML" expanded="true" />
-            <element signature="e#21310#21327#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/line_2.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-760">
-          <caret line="16" column="85" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="42" column="104" selection-start-line="42" selection-start-column="104" selection-end-line="42" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="240" column="3" selection-start-line="230" selection-start-column="2" selection-end-line="240" selection-end-column="3" />
+        <state relative-caret-position="4">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/us.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1266">
-          <caret line="212" column="64" selection-start-line="212" selection-start-column="64" selection-end-line="212" selection-end-column="64" />
+        <state relative-caret-position="58">
+          <caret line="173" column="82" selection-start-line="173" selection-start-column="82" selection-end-line="173" selection-end-column="82" />
           <folding>
-            <element signature="e#127#157#0#HTML" expanded="true" />
-            <element signature="e#3715#3746#0#HTML" expanded="true" />
-            <element signature="e#6454#6499#0#HTML" expanded="true" />
-            <element signature="e#9827#9874#0#HTML" expanded="true" />
-            <element signature="e#10441#10458#0#HTML" expanded="true" />
-            <element signature="e#11119#11136#0#HTML" expanded="true" />
-            <element signature="e#11514#11531#0#HTML" expanded="true" />
-            <element signature="e#11924#11941#0#HTML" expanded="true" />
-            <element signature="e#12767#12834#0#HTML" expanded="true" />
+            <element signature="e#12955#13023#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/line_3.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#1699#1754#0#HTML" expanded="true" />
-            <element signature="e#13161#13179#0#HTML" expanded="true" />
-            <element signature="e#13363#13381#0#HTML" expanded="true" />
-            <element signature="e#13603#13621#0#HTML" expanded="true" />
-            <element signature="e#13824#13842#0#HTML" expanded="true" />
-            <element signature="e#14050#14069#0#HTML" expanded="true" />
-            <element signature="e#14272#14291#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="276">
+          <caret line="273" column="1" selection-start-line="273" selection-start-column="1" selection-end-line="273" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/line_2.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="71" column="68" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
-          <folding>
-            <element signature="e#204#235#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/work.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state relative-caret-position="23">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
         </state>
       </provider>
     </entry>

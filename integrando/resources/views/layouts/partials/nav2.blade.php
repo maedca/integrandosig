@@ -4,8 +4,9 @@
     <br class="d-none d-sm-block">
     {{--<p>Licencia en Seguridad y Salud  en el Trabajo S2019060004999</p>--}}
         <br><br>
-    <div class="col-sm-4"><br><img src="{{asset('images/logo_let_azul.png')}}" alt="" style="width: 50%; " class="d-none d-sm-block"><br></div>
-    <div class="col-sm-8"><br><br><br><br><h3 style="color: #262f64">Licencia en Seguridad y Salud en el Trabajo S2019060004999</h3></div>
+    <div class="col-sm-12"><br><img src="{{asset('images/logo_let_azul.png')}}" alt="" style="width: 20%; " class="d-none d-sm-block"><br>
+        <h3 style="color: #262f64">Licencia en Seguridad y Salud en el Trabajo S2019060004999</h3></div>
+    {{-- <div class="col-sm-8"><br><br><br><br></div> --}}
 
     <br class="d-none d-sm-block">
     <br class="d-none d-sm-block">

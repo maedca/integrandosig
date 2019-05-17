@@ -178,7 +178,7 @@
                 <div class="col-md-4">
                     <br><br><br>
                     <h3>Objetivos del SIG</h3>
-                    <br><br>
+
 
                 </div>
             </div>
