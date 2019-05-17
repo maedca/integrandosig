@@ -153,9 +153,9 @@
                 </div>
             </div>
             {{--<div class="row">--}}
-                {{--<img src="{{asset('images/nosotros_blanco.svg')}}" alt=""--}}
-                     {{--style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)"--}}
-                     {{--class="d-none d-md-block">--}}
+            {{--<img src="{{asset('images/nosotros_blanco.svg')}}" alt=""--}}
+            {{--style="width: 400%; height: 75%; transform: translateY(-380px) translateX(-628px)"--}}
+            {{--class="d-none d-md-block">--}}
             {{--</div>--}}
         </div>
     </div>
@@ -171,7 +171,7 @@
 
     {{--</div>--}}
 
-    <div style="background-color: white; height: 330px; transform: translateY(-100px) " class="d-none d-md-block">
+    <div style="background-color: white; height: 360px; transform: translateY(-100px) " class="d-none d-md-block">
         <div class="container">
             <div class="row">
 
@@ -185,37 +185,33 @@
             <div class="row">
                 <div class="col-md-12">
 
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
-                                                 style="width: 2%">
+                    <p class="text-justify"> {{--<img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
+                                                 style="width: 2%">--}}
                         Gerenciar la empresa mediante el fortalecimiento del
                         sistema integrado de gestión, asegurando su sostenibilidad y la protección de
                         sus colaboradores, para el mejoramiento continuo del servicio que presta y el cumplimiento de su
                         política integrada a través de la identificación de peligros, evaluación y valoración de
                         riesgos, el control de los mismos y el cumplimiento de la normatividad legal vigente.</p>
                     <p class="text-justify">
-                        <img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
-                             style="width: 2%">Asegurar
+                      Asegurar
                         el mejoramiento del Sistema Integrado de Gestión, promoviendo la eficacia en las acciones, para
                         el fortalecimiento de la cultura
                         de la calidad, la seguridad y salud en el trabajo y la protección y tratamiento de la
                         información.
                     </p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
-                                                 style="width: 2%">Asistir a las organizaciones a través del desarrollo
+                    <p class="text-justify">Asistir a las organizaciones a través del desarrollo
                         del portafolio de servicios, para el cumplimiento de la satisfacción de las necesidades
                         y expectativas de los clientes.</p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
-                                                 style="width: 2%">Gestionar la consecución de clientes potenciales y el
+                    <p class="text-justify">Gestionar la consecución de clientes potenciales y el
                         sostenimiento de los actuales, a través del desarrollo de servicios de asistencia
                         técnica en la gestión y la producción de eventos a gran escala para la transformación de
                         procesos organizacionales.</p>
-                    <p class="text-justify"><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid"
-                                                 style="width: 2%">Gestionar los recursos de manera transparente,
+                    <p class="text-justify">Gestionar los recursos de manera transparente,
                         procurando el desarrollo operacional de los procesos, la rentabilidad y sostenibilidad
                         de la empresa.</p>
                     <img src="{{asset('images/nosotros/pieza_rompe-01.svg')}}" alt=""
-                         style="width: 20%; transform: translateX(-200px) translateY(-150px)">
-                    <br><br><br><br>
+                         style="width: 30%; transform: translateX(-200px) translateY(-195px)">
+
 
                 </div>
 
