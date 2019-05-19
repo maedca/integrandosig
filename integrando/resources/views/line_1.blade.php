@@ -83,7 +83,7 @@
     </div>
     <div style="background-color:#262f64; height: 300px">
         <div class="row">
-            <div class="col-md-6 offset-6  d-none d-md-block">
+            <div class="col-md-5 offset-7  d-none d-md-block">
                 <br><br><br><br><br>
                 <h1 style="color: white">Sistema de Gestión de calidad - Sistema de gestion ambiental
                     de Calidad</h1>
@@ -138,7 +138,7 @@
     <br><br><br><br>
     <div style="background-color: #262f64; height: 300px">
         <div class="row">
-            <div class="col-md-6 offset-1 d-none d-md-block">
+            <div class="col-md-5 offset-1 d-none d-md-block">
                 <br><br><br><br><br>
                 <h1 style="color: white">Sistemas de Gestión
                     Ambiental</h1>
@@ -189,7 +189,7 @@
 
     <div style="background-color: #262f64; height: 300px">
         <div class="row">
-            <div class="col-md-6 offset-6  d-none d-md-block">
+            <div class="col-md-5 offset-7  d-none d-md-block">
                 <br><br><br><br><br>
                 <h1 style="color: white">Auditoría a los Sistemas
                     de Gestión</h1>
@@ -237,7 +237,7 @@
 
     <div style="background-color: #262f64; height: 300px">
         <div class="row">
-            <div class="col-md-6 offset-1 d-none d-md-block">
+            <div class="col-md-5 offset-1 d-none d-md-block">
                 <br><br><br><br><br>
                 <h1 style="color: white">Integración de los
                     Sistemas de Gestión</h1>
