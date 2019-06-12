@@ -26,9 +26,10 @@ Route::get('/line_2', function () {
 Route::get('/line_3', function () {
     return view('line_3');
 });
-Route::get('/blog', function () {
-    return view('blog');
-});
+Route::get('/blog', 'Web\PageController@blog')->name('blog');
+Route::get('/blog/{slug}', 'Web\PageController@post')->name('post');
+Route::get('/category/{slug}', 'Web\PageController@category')->name('category');
+Route::get('/tag/{slug}', 'Web\PageController@tag')->name('tag');
 Route::get('/work', function () {
     return view('work');
 });
@@ -36,6 +37,13 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+//admin
+Route::resource('tags', 'Admin\TagController');
+Route::resource('categories', 'Admin\CategoryController');
+Route::resource('posts', 'Admin\PostController');
 
 
 
+Auth::routes();
+
+//Route::get('/home', 'HomeController@index')->name('home');

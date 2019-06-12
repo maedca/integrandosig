@@ -53,17 +53,17 @@
             <div class="row">
                 <div class="col-sm-8">
                     <h3>¿Cómo lo hacemos?</h3>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Establecemos
+                    <p>Establecemos
                         contacto con nuestros clientes para programar visitas técnicas</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Realizamos
+                    <p>Realizamos
                         un diagnóstico para identificar las necesidades específicas.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Diseñamos
+                    <p>Diseñamos
                         una propuesta conforme a las necesidades puntuales de nuestros clientes.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Ponemos
+                    <p>Ponemos
                         en marcha el equipo de humano de Integrando.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Realizamos
+                    <p>Realizamos
                         seguimiento durante y después de nuestros proyectos.</p>
-                    <p><img src="{{'images/nosotros/pieza_rompe.svg'}}" alt="" class="img-fluid vineta">Los
+                    <p>Los
                         clientes evalúan la satisfacción con nuestros servicios.</p>
                 </div>
             </div>

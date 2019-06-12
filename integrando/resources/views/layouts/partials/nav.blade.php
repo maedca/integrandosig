@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse flex-grow-1 text-center" id="myNavbar7">
         <ul class="navbar-nav ml-auto flex-nowrap">
             <li class="nav-item {{ (request()->is('/')) ? 'activo_home' : '' }}">
-                <a href="/" class="nav-link">Home</a>
+                <a href="/" class="nav-link">Homesss</a>
             </li>
             <li class="nav-item {{ (request()->is('us')) ? 'activo_us' : '' }}">
                 <a href="/us" class="nav-link">Nosotros</a>
@@ -38,9 +38,16 @@
             <li class="nav-item {{ (request()->is('work')) ? 'activo_work' : '' }}">
                 <a href="/work" class="nav-link">Trabaja con nosotros</a>
             </li>
+
             <li class="nav-item {{ (request()->is('contact')) ? 'activo_contact' : '' }}">
-                <a href="/contact" class="nav-link">Contactanos</a>
+                <a href="/contact" class="nav-link">Contactano yas</a>
             </li>
+
+
+
+
+
+
             <li class="nav-item">
                 <a href="#" class="nav-link"><img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid" style="width: 20px"></a>
             </li>
@@ -51,5 +58,6 @@
                 <a href="#" class="nav-link"><img src="{{asset('images/insta_b.svg')}}" alt="" class="img-fluid" style="width: 20px"></a>
             </li>
         </ul>
+
     </div>
 </nav>

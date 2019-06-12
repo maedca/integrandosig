@@ -9,7 +9,7 @@
         <div class="col-md-6 offset-md-3 col-sm-12">
             <br><br>
             <h1> Líneas Estratégicas de Negocio</h1>
-            <p class="text-center home">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid animi consequatur dolore, dolorum enim explicabo fuga </p>
+{{--            <p class="text-center home">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid animi consequatur dolore, dolorum enim explicabo fuga </p>--}}
         </div>
     </div>
     <div class="row">

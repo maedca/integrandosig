@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
 
+
     <!-- Custom styles for this template -->
 
 </head>
@@ -29,7 +30,8 @@
 @yield('header')
 
 
-
+{{----}}
+@include('sweetalert::alert')
 @yield('content')
 
 
@@ -38,12 +40,14 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+{{--<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>--}}
+{{--<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>--}}
 {{--<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>--}}
 
-<script src="{{asset('js/app.js')}}"></script>
+<script type="text/javascript" rel="script" src="{{asset('js/app.js')}}"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+@yield('scripts')
 <script src="{{asset('js/slick.min.js')}}"></script>
 <script>
     $('.responsive').slick({
