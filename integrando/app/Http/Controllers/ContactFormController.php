@@ -23,7 +23,7 @@ class ContactFormController extends Controller
            'message' => 'required'
        ]);
 
-       Mail::to('maedca@gmail.com')->send(new ContactFormMail($data));
+       Mail::to('comercial@integrandosig.com')->send(new ContactFormMail($data));
         return redirect('/');
     }
 }
