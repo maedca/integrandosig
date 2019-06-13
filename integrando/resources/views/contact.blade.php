@@ -20,31 +20,25 @@
             {{--</div>--}}
 
             <div class="col-sm-6">
-                <form>
+                <form method="post" action="contact">
+                    @csrf
                     <br><br><br>
                     <div class="form-group">
-
-
-                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre">
-
+                        <input type="text" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Nombre" name="name">
+                        <div>{{$errors->first('name')}}</div>
                     </div>
 
                     <div class="form-group">
-
-
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Correo">
-
-                    </div>
-                    <div class="form-group">
-
-
-                        <input type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Celular">
+                        <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Correo" name="email">
+                        <div>{{$errors->first('email')}}</div>
 
                     </div>
                     <div class="form-group">
-
-
-                        <select  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" >
+                        <input type="number" class="form-control" id="phone" aria-describedby="emailHelp" placeholder="Celular" name="phone">
+                        <div>{{$errors->first('phone')}}</div>
+                    </div>
+                    <div class="form-group">
+                        <select  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="type">
                             <option value="felicitaciones">Felicitaciones</option>
                             <option value="quejas">Quejas</option>
                             <option value="sugerencias">Sugerencias</option>
@@ -54,10 +48,8 @@
 
                     </div>
                     <div class="form-group">
-
-
-                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Mensaje">
-
+                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Mensaje" name="message">
+                        <div>{{$errors->first('message')}}</div>
                     </div>
 
 

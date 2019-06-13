@@ -33,9 +33,8 @@ Route::get('/tag/{slug}', 'Web\PageController@tag')->name('tag');
 Route::get('/work', function () {
     return view('work');
 });
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('contact','ContactFormController@create');
+Route::post('contact','ContactFormController@store');
 
 //admin
 Route::resource('tags', 'Admin\TagController');
