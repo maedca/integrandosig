@@ -91,7 +91,7 @@
             @endguest
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a href="https://wa.me/573158394620?text=Hola%20estoy%20interesad(a)%20en%20contactarlos" class="nav-link"><img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid"
+                    <a href="https://wa.me/3003180310?text=Hola%20estoy%20interesad(a)%20en%20contactarlos" class="nav-link"><img src="{{asset('images/whatsapp_b.svg')}}" alt="" class="img-fluid"
                                                       style="width: 20px"></a>
                 </li>
                 <li class="nav-item">
