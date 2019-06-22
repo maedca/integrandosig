@@ -73,13 +73,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/integrando/database/seeds/DatabaseSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" column="47" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="108">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/integrando/resources/views/web/post.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -252,6 +257,27 @@
               <item name="database" type="462c0819:PsiDirectoryNode" />
               <item name="seeds" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="integrandosig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="integrandosig" type="462c0819:PsiDirectoryNode" />
+              <item name="integrando" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="integrandosig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="integrandosig" type="462c0819:PsiDirectoryNode" />
+              <item name="integrando" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="integrandosig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="integrandosig" type="462c0819:PsiDirectoryNode" />
+              <item name="integrando" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -298,15 +324,15 @@
       <workItem from="1560435239370" duration="4171000" />
       <workItem from="1560874648852" duration="1129000" />
       <workItem from="1560875910655" duration="35000" />
-      <workItem from="1561134973040" duration="285000" />
+      <workItem from="1561134973040" duration="1688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6413000" />
+    <option name="totallyTimeSpent" value="7816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
@@ -425,10 +451,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/integrando/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="47" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="108">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrando/resources/views/web/post.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
