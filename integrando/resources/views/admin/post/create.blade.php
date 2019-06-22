@@ -56,7 +56,7 @@
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <label for="image">Imagen</label>
+                                        <label for="image">Imagen (1200 ancho * 400 alto)</label>
                                         <input type="file" name="file" class="form-control">
                                     </div>
                                     <div class="form-group">
