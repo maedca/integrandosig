@@ -16,7 +16,7 @@
                             <img src="{{$post->file}}" alt="" class="img-fluid">
 
                         @endif
-                        <p>{{$post->excerpt}}</p>
+                        <p>{!! $post->excerpt !!}</p>
                         <hr>
                         <p>{!!$post->body!!}</p>
                         <hr>

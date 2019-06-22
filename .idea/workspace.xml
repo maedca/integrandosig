@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0910d8b7-16e4-4365-be43-c6957fbef63d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/integrando/resources/views/web/posts.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integrando/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integrando/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integrando/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integrando/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integrando/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/integrando/app/Providers/AppServiceProvider.php" afterDir="false" />
@@ -25,20 +26,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/integrando/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
+            <state relative-caret-position="337">
               <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/integrando/app/Http/Controllers/ContactFormController.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/integrando/resources/views/web/posts.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#40#69#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="-365">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -82,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/integrando/resources/views/web/post.blade.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -134,6 +132,7 @@
         <option value="$PROJECT_DIR$/integrando/app/Providers/AppServiceProvider.php" />
         <option value="$PROJECT_DIR$/integrando/database/seeds/UsersTableSeeder.php" />
         <option value="$PROJECT_DIR$/integrando/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/integrando/resources/views/web/posts.blade.php" />
       </list>
     </option>
   </component>
@@ -226,7 +225,9 @@
     <option name="width" value="1720" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -324,18 +325,18 @@
       <workItem from="1560435239370" duration="4171000" />
       <workItem from="1560874648852" duration="1129000" />
       <workItem from="1560875910655" duration="35000" />
-      <workItem from="1561134973040" duration="1688000" />
+      <workItem from="1561134973040" duration="1961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7816000" />
+    <option name="totallyTimeSpent" value="8089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -348,7 +349,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33529413" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33529413" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -384,13 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrando/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -456,8 +450,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/integrando/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/integrando/resources/views/web/post.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrando/resources/views/web/posts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
